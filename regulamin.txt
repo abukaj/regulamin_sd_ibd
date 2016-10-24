@@ -108,7 +108,7 @@ Rada Samorządu Doktorantów, zwana dalej Radą, jest organem uchwałodawczym Sa
 
 12. Wyniki wszystkich głosowań ogłasza Komisja Wyborcza w terminie nie przekraczającym 2 dni roboczych od zakończenia głosowań we wszystkich zakładach. Wyniki wyborów zostają wywieszone na tablicach ogłoszeń wszystkich zakładów oraz rozesłane pocztą elektroniczną do wszystkich członków samorządu, Kierownika Studium Doktoranckiego oraz do Dyrektora Instytutu.
 
-13. Wybrani zostają kandydaci, którzy uzyskali największą liczbę głosów. Jeżeli, na skutek otrzymania przez kilku kandydatów tej samej liczby głosów, niemożliwe jest wyłonienie delegatów w liczbie określonej w §10 ust. 2, przeprowadza się dodatkową turę wyborów między tymi kandydatami.
+13. Za wybranych do danego organu uważa się tych kandydatów, którzy otrzymali najwięcej oddanych głosów. Jeżeli w drugiej turze wyborów dwóch lub więcej kandydatów otrzymało równą ilość głosów uprawniającą do uzyskania mandatu i kandydatów tych jest więcej niż mandatów do uzyskania, o pierwszeństwie rozstrzyga losowanie przeprowadzane przez 3 członków Komisji Wyborczej, z możliwością udziału zainteresowanych kandydatów. Przebieg losowania uwzględnia się w protokole wyborczym.
 
 14. Jeżeli w wyniku wyborów pozostał co najmniej jeden nieobsadzony mandat delegata, wówczas w terminie nieprzekraczającym 14 dni od rozpoczęcia kadencji nowej Rady rozpoczyna się procedurę wyborów uzupełniających w celu obsadzenia wolnego mandatu lub mandatów. Do wyborów uzupełniających stosuje się odpowiednio przepisy §12 ust. 1-12.
 
@@ -416,3 +416,19 @@ Maciej Czerkies
 Anna Łukasik
 Maciej Gawlak
 Marcin Mazurkiewicz
+
+
+
+Zmiany w Regulaminie: § 12, pkt. 13
+Warszawa, 10 listopada 2010 Rada Samorządu Doktorantów IBD PAN
+Dorota Gierej
+Paulina Jedynak
+Maciej Czerkies
+Andrzej Foik
+Marta Mikosz
+Justyna Karolczak
+Marta Wojewoda
+Dorota Kulesza
+Katarzyna Wierzbicka
+Katarzyna Żybura-Broda
+Małgorzata Figiel
