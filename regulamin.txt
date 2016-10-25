@@ -32,7 +32,7 @@ d) biernego i czynnego prawa wyborczego do organów Samorządu.
 
 §5
 
-Utrata członkostwa w Samorządzie następuje w razie:
+1. Utrata członkostwa w Samorządzie następuje w razie:
 a) ukończenia, bądź zrezygnowania ze studiów doktoranckich,
 b) skreślenia z listy uczestników studiów doktoranckich,
 c) pisemnej rezygnacji z członkostwa przekazanej Przewodniczącemu Samorządu.
@@ -47,46 +47,46 @@ c) pisemnej rezygnacji z członkostwa przekazanej Przewodniczącemu Samorządu.
 
 §7
 
-Samorząd działając poprzez swoje organy:
+1. Samorząd działając poprzez swoje organy:
 a) broni praw doktorantów,
 b) reprezentuje interesy doktorantów w Instytucie i poza nim,
 c) wyraża opinię społeczności doktorantów z własnej inicjatywy i na prośbę władz Instytutu,
 d) występuje z wnioskami do władz Instytutu,
 e) uczestniczy, poprzez swoich przedstawicieli, w rozszerzonym Kolegium Instytutu,
-f) uczestniczy, poprzez swoich przedstawicieli, za zgodą Przewodniczącego Rady Naukowej, w posiedzeniach Rady Naukowej,
-g) może prowadzić działalność socjalno-bytową, społeczną, kulturalną, oświatową, naukową i sportową.
+f) uczestniczy, poprzez swoich przedstawicieli, w posiedzeniach Rady Naukowej,
+g) może prowadzić działalność socjalno-bytową, społeczną, kulturową, oświatową, naukową i sportową.
 
 
 
 Rozdział II
 Rada Samorządu Doktorantów
 
+§8
+
+1. Rada Samorządu Doktorantów, zwana dalej Radą, jest organem uchwałodawczym Samorządu.
+
+
 §9
-
-Rada Samorządu Doktorantów, zwana dalej Radą, jest organem uchwałodawczym Samorządu.
-
-
-§10
 
 1. W skład Rady wchodzą doktoranci - delegaci poszczególnych zakładów działających w Instytucie.
 
-2. Liczbę delegatów przysługujących każdemu zakładowi oblicza się dzieląc liczbę doktorantów danego zakładu przez dziesięć i zaokrąglając otrzymany wynik, przy czym każdy zakład ma prawo do minimum 1 delegata.
+2. Liczbę delegatów przysługujących każdemu zakładowi oblicza się dzieląc liczbę doktorantów danego zakładu przez dziesięć i zaokrąglając otrzymany wynik, przy czym każdy zakład ma prawo do minimum 1 i maksimum 3 delegatów.
 
-3. Wskazane w ust. 2 zaokrąglenie jest zaokrągleniem w górę, gdy wartość wynosi minimum 5 dziesiątych, natomiast poniżej zaokrągla się w dół.
+3. Wskazane w ust. 2 zaokrąglenie jest zaokrągleniem w górę, gdy wartość wynosi minimum 6 dziesiątych, natomiast poniżej zaokrągla się w dół.
 
 4. W skład Rady może dodatkowo wchodzić jeden przedstawiciel doktorantów Instytutu nie podlegających poszczególnym zakładom Instytutu. Przedstawiciel ten jest wybierany przez wyżej wymienionych doktorantów na ustalonych przez nich zasadach i jest podawany do wiadomości Komisji Wyborczej nie później niż na 2 tygodnie przed upływem bieżącej kadencji Rady.
 
 
-§11
+§10
 
 1. Kadencja Rady trwa 1 rok, rozpoczyna się 1 stycznia i kończy się 31 grudnia.
 
 
-§12
+§11
 
 1. Wybory do Rady ogłasza ustępująca Rada.
 
-2. Do przeprowadzenia głosowań Rada powołuje Komisję Wyborczą spośród członków Samorządu, w terminie nie później niż 7 tygodni przed upływem bieżącej kadencji Rady. Członek Komisji Wyborczej nie może kandydować do Rady Samorządu.
+2. Do przeprowadzenia głosowań Rada powołuje Komisję Wyborczą spośród członków Samorządu, w terminie nie później niż 5 tygodni przed upływem bieżącej kadencji Rady. Członek Komisji Wyborczej nie może kandydować do Rady.
 
 3. Komisja Wyborcza liczy co najmniej trzy osoby, lecz nie więcej niż pięć. W miarę możliwości, w Komisji Wyborczej powinny być reprezentowane wszystkie zakłady działające w Instytucie.
 
@@ -94,30 +94,30 @@ Rada Samorządu Doktorantów, zwana dalej Radą, jest organem uchwałodawczym Sa
 
 5. Termin wyborów, ich formę, liczbę mandatów do obsadzenia i nazwiska kandydatów do Rady, osobno dla każdego zakładu, Komisja podaje do publicznej wiadomości nie później niż na 7 dni przed wyborami w pierwszym z zakładów. Od rozpoczęcia wyborów w pierwszym z zakładów do zakończenia w ostatnim nie może upłynąć więcej niż 1 tydzień.
 
-6. Wyboru delegatów do Rady dokonują członkowie Samorządu będący doktorantami danego zakładu.
+6. Wyboru delegatów do Rady dokonują członkowie Samorządu.
 
 7. Komisja Wyborcza rozstrzyga protesty i wynikłe wątpliwości związane z przebiegiem wyborów, w terminie nie przekraczającym 1 tygodnia od ogłoszenia wyników wyborów.
 
-8. Wybory powinny zakończyć się nie później niż 21 dni przed upływem bieżącej kadencji Rady.
+8. Wybory powinny zakończyć się nie później niż 7 dni przed upływem bieżącej kadencji Rady.
 
 9. Czynne i bierne prawo wyborcze mają wszyscy członkowie Samorządu będący doktorantami danego zakładu.
 
-10. Każdemu uprawnionemu do głosowania przysługuje prawo zgłaszania kandydatów z zakładu, do którego przynależy, w liczbie równej mandatom przyznanym danemu zakładowi. Wymagana jest zgoda kandydata na kandydowanie.
+10. Każdy uprawniony do głosowania ma prawo zgłaszania swojej kandydatury w terminie zgodnym z ust. 4.
 
 11. Wyboru delegatów do Rady dokonuje się w głosowaniu tajnym na poszczególnych kandydatów. Każdy głosujący może oddać głos na jednego lub więcej kandydatów – nie więcej jednak niż wynosi liczba mandatów w danym zakładzie, albo wstrzymać się od głosu.
 
-12. Wyniki wszystkich głosowań ogłasza Komisja Wyborcza w terminie nie przekraczającym 2 dni roboczych od zakończenia głosowań we wszystkich zakładach. Wyniki wyborów zostają wywieszone na tablicach ogłoszeń wszystkich zakładów oraz rozesłane pocztą elektroniczną do wszystkich członków samorządu, Kierownika Studium Doktoranckiego oraz do Dyrektora Instytutu.
+12. Wyniki wszystkich głosowań ogłasza Komisja Wyborcza w terminie nie przekraczającym 2 dni roboczych od zakończenia głosowań we wszystkich zakładach. Wyniki wyborów zostają podane do publicznej wiadomości wszystkich członków samorządu, Kierownika Studium Doktoranckiego oraz do Dyrektora Instytutu.
 
-13. Za wybranych do danego organu uważa się tych kandydatów, którzy otrzymali najwięcej oddanych głosów. Jeżeli w drugiej turze wyborów dwóch lub więcej kandydatów otrzymało równą ilość głosów uprawniającą do uzyskania mandatu i kandydatów tych jest więcej niż mandatów do uzyskania, o pierwszeństwie rozstrzyga losowanie przeprowadzane przez 3 członków Komisji Wyborczej, z możliwością udziału zainteresowanych kandydatów. Przebieg losowania uwzględnia się w protokole wyborczym.
+13. Za wybranych do danego organu uważa się tych kandydatów, którzy otrzymali najwięcej oddanych głosów. Jeżeli dwóch lub więcej kandydatów otrzymało równą ilość głosów uprawniającą do uzyskania mandatu i kandydatów tych jest więcej niż mandatów do uzyskania, o pierwszeństwie rozstrzyga losowanie przeprowadzane przez 3 członków Komisji Wyborczej, z możliwością udziału zainteresowanych kandydatów. Przebieg losowania uwzględnia się w protokole wyborczym.
 
-14. Jeżeli w wyniku wyborów pozostał co najmniej jeden nieobsadzony mandat delegata, wówczas w terminie nieprzekraczającym 14 dni od rozpoczęcia kadencji nowej Rady rozpoczyna się procedurę wyborów uzupełniających w celu obsadzenia wolnego mandatu lub mandatów. Do wyborów uzupełniających stosuje się odpowiednio przepisy §12 ust. 1-12.
+14. Jeżeli w wyniku wyborów pozostał co najmniej jeden nieobsadzony mandat delegata, wówczas w terminie nieprzekraczającym 14 dni od rozpoczęcia kadencji nowej Rady rozpoczyna się procedurę wyborów uzupełniających w celu obsadzenia wolnego mandatu lub mandatów. Do wyborów uzupełniających stosuje się odpowiednio przepisy §11 ust. 1-12.
 
-15. Mandaty nieobsadzone podczas wyborów uzupełniających pozostają nieobsadzone do końca kadencji Rady, z zastrzeżeniem §13 ust. 3.
+15. Mandaty nieobsadzone podczas wyborów uzupełniających pozostają nieobsadzone do końca kadencji Rady, z zastrzeżeniem §12 ust. 3.
 
-16. W przypadku przeprowadzania pierwszych wyborów Rady, warunki wyborów ogłasza Komisja Wyborcza na zasadach określonych w regulaminie, przy czym wszystkie terminy wymienione w §12 mogą zostać skrócone.
+16. W przypadku przeprowadzania pierwszych wyborów Rady, warunki wyborów ogłasza Komisja Wyborcza na zasadach określonych w regulaminie, przy czym wszystkie terminy wymienione w §11 mogą zostać skrócone.
 
 
-§13
+§12
 
 1. Mandat delegata do Rady wygasa:
 a) w razie jego rezygnacji,
@@ -127,57 +127,57 @@ d) w razie niezdolności do pełnienia przez niego mandatu przez okres dłuższy
 
 2. W razie wygaśnięcia mandatu, mandat przejmuje następny kandydat z największą liczbą głosów uzyskanych w wyborach.
 
-3. Jeśli nie ma osoby wskazanej w punkcie 2, jednak nie później niż na 6 miesięcy przed upływem kadencji Rady, rozpoczyna się procedurę wyborów uzupełniających w obrębie odpowiedniego zakładu w trybie określonym w §12.ust. 1-12.
+3. Jeśli nie ma osoby wskazanej w punkcie 2, jednak nie później niż na 6 miesięcy przed upływem kadencji Rady, rozpoczyna się procedurę wyborów uzupełniających w obrębie odpowiedniego zakładu w trybie określonym w §11.ust. 1-12.
 
 4. Podczas wyborów, o których mowa w ust. 3, obsadza się również pozostałe wakujące mandaty delegatów do Rady z odpowiedniego zakładu.
 
 
-§14
+§13
 
-1. Referendum, o którym mowa w §13 ust. 1 lit. c) przeprowadza Komisja Wyborcza:
+1. Referendum, o którym mowa w §12 ust. 1 lit. c) przeprowadza Komisja Wyborcza:
 a) na wniosek co najmniej 1/5 ogólnej liczby członków samorządu,
-b) na pisemne żądanie Rady Samorządu.
+b) na pisemne żądanie Rady.
 
-2. Wynik referendum jest wiążący, jeżeli w referendum udział wzięło co najmniej 30% uczestników studium doktoranckiego uprawnionych do głosowania.
+2. Wynik referendum jest wiążący, jeżeli w referendum udział wzięło co najmniej 30% członków samorządu uprawnionych do głosowania.
 
 
-§15
+§14
 
 W zakresie pełnienia swego mandatu delegat do Rady zobowiązany jest brać czynny udział w jej pracach.
 
 
-§16
+§15
 
 1. Rada obraduje na posiedzeniach.
 
 2. Posiedzenia przebiegają według porządku zaproponowanego przez Przewodniczącego.
 
-3. Co najmniej 3 delegatów do Rady może wprowadzić do porządku posiedzenia zgłoszone przez siebie zagadnienie w trakcie posiedzenia.
+3. Każdy delegat do Rady może wprowadzić do porządku posiedzenia zgłoszone przez siebie zagadnienie w trakcie posiedzenia, za zgodą Przewodniczącego.
 
-4. Posiedzenia Rady odbywają się nie rzadziej niż raz w miesiącu, oprócz przewidzianych w Instytucie okresów przerw wakacyjnych.
+4. Posiedzenia Rady odbywają się nie rzadziej niż raz w miesiącu.
 
 
-§17
+§16
 
-1. Posiedzenie Rady zwołuje Przewodniczący Samorządu.
+1. Posiedzenie Rady zwołuje Przewodniczący Samorządu:
 a) z własnej inicjatywy,
-b) na pisemny wniosek co najmniej połowy ogólnej liczby delegatów do Rady lub co najmniej 20% ogólnej liczby członków Samorządu,
+b) na wniosek co najmniej połowy delegatów do Rady lub co najmniej 20% ogólnej liczby członków Samorządu,
 c) na pisemny wniosek Kierownika Studium Doktoranckiego lub Dyrektora Instytutu.
 
-2. Ustępujący Przewodniczący Samorządu zwołuje pierwsze posiedzenie nowo wybranej Rady nie później niż 15 stycznia.
+2. W przypadkach określonych w ust. 1 lit. b) i c), Przewodniczący Samorządu jest zobowiązany zwołać posiedzenie Rady w ciągu 14 dni od dnia otrzymania żądania lub wniosku.
 
-3. Porządek obrad pierwszego posiedzenia Rady winien obejmować wybór nowego Przewodniczącego Samorządu.
+3. Ustępujący Przewodniczący Samorządu zwołuje pierwsze posiedzenie nowo wybranej Rady nie później niż 15 stycznia.
 
-4. W razie nie wybrania Przewodniczącego Samorządu na pierwszym posiedzeniu Rady, nowo wybrana Rada zobowiązana jest do wybrania Przewodniczącego Samorządu w terminie nie przekraczającym 2 tygodni od pierwszego posiedzenia Rady, pod rygorem rozwiązania Rady.
+4. Porządek obrad pierwszego posiedzenia Rady winien obejmować wybór nowego Przewodniczącego Samorządu, Wiceprzewodniczącego i Sekretarza.
 
-5. W przypadkach określonych w ust. 1 lit. b) i c), Przewodniczący Samorządu jest zobowiązany zwołać posiedzenie Rady w ciągu 14 dni od dnia otrzymania żądania lub wniosku.
+5. W razie nie wybrania Przewodniczącego Samorządu na pierwszym posiedzeniu Rady, nowo wybrana Rada zobowiązana jest do wybrania Przewodniczącego Samorządu w terminie nie przekraczającym 2 tygodni od pierwszego posiedzenia Rady, pod rygorem rozwiązania Rady.
 
-6. Przewodniczący Samorządu zobowiązany jest powiadomić wszystkich delegatów do Rady o terminie, miejscu i proponowanym porządku obrad, nie później niż na 3 dni przed datą posiedzenia. Termin posiedzenia podaje się do publicznej wiadomości poprzez pocztę elektroniczną, wysyłając mail zawiadamiający o terminie i miejscu spotkania na listę mailingową doktoranci@nencki.gov.pl.
+6. Przewodniczący Samorządu zobowiązany jest powiadomić wszystkich delegatów do Rady o terminie, miejscu i proponowanym porządku obrad, nie później niż na 3 dni przed datą posiedzenia. Termin posiedzenia podaje się do publicznej wiadomości Samorządu.
 
 7. W szczególnych przypadkach, jeśli okoliczności wymagają natychmiastowego zwołania Rady, możliwe jest odejście od 3-dniowego terminu powiadomienia przed datą posiedzenia.
 
 
-§18
+§17
 
 1. Posiedzenia Rady są jawne, chyba że Rada zwykłą większością głosów w obecności co najmniej połowy członków postanowi inaczej.
 
@@ -186,20 +186,20 @@ c) na pisemny wniosek Kierownika Studium Doktoranckiego lub Dyrektora Instytutu.
 3. W głosowaniach Rady prawo głosu przysługuje wyłącznie delegatom do Rady.
 
 
-§19
+§18
 
 1. Posiedzenie Rady prowadzi Przewodniczący Samorządu.
 
 2. W razie potrzeby posiedzenie Rady może prowadzić inny delegat do Rady wskazany przez Przewodniczącego Samorządu lub osoba wyznaczona przez Radę do pełnienia tej funkcji zwykłą większością głosów.
 
-3. Posiedzenie Rady protokołuje sekretarz. W przypadku nieobecności na posiedzeniu sekretarza, obrady protokułuje osoba wyznaczona przez prowadzącego obrady.
+3. Posiedzenie Rady protokołuje Sekretarz. W przypadku nieobecności na posiedzeniu sekretarza, obrady protokółuje osoba wyznaczona przez prowadzącego obrady.
 
 4. Protokół podlega zatwierdzeniu przez Przewodniczącego lub osobę pełniącą obowiązki Przewodniczącego i jest wysyłany drogą elektroniczną do wszystkich członków Rady.
 
-5. Zatwierdzony protokół podpisuje osoba wspomniana w ust. 4 oraz sekretarz na początku następnego posiedzenia.
+5. Zatwierdzony protokół podpisuje osoba wspomniana w ust. 2 oraz sekretarz na początku następnego posiedzenia.
 
 
-§20
+§19
 
 1. Uchwały Rady zapadają w głosowaniu jawnym, zwykłą większością głosów, w obecności co najmniej połowy delegatów, chyba że Regulamin przewiduje inaczej.
 
@@ -208,46 +208,40 @@ c) na pisemny wniosek Kierownika Studium Doktoranckiego lub Dyrektora Instytutu.
 3. W sprawach personalnych Rada podejmuje uchwały w głosowaniach tajnych.
 
 
-§21
+§20
 
 1. Do kompetencji Rady należy określenie kierunków działania Samorządu, a w szczególności:
-a) wybór i odwołanie Przewodniczącego Samorządu,
-b) wybór i odwołanie przedstawicieli Samorządu w Kolegium Instytutu,
-c) wybór i odwołanie przedstawicieli Samorządu w Radzie Naukowej Instytutu,
-d) wybór i odwołanie komisji programowych oraz ich poszczególnych członków,
-e) zatwierdzanie regulaminów organów i komisji programowych Samorządu,
-f) rozpatrywanie i zatwierdzanie sprawozdań Samorządu,
-g) zmiana Regulaminu,
-h) organizacja pracy Samorządu,
-i) współpraca z organami Instytutu w sprawach należących do zakresu działania Samorządu,
-j) prawo do uzyskania informacji i wyrażania opinii dotyczących decyzji odnoszących się do członków Samorządu,
-k) podejmowanie działań na rzecz pozytywnych zmian sytuacji doktorantów oraz przestrzegania ich praw,
-l) podejmowanie inicjatyw sprzyjających integracji środowiska doktorantów i rozwojowi współpracy koleżeńskiej w ramach Instytutu i poza nim.
+a) wybór i odwołanie Przewodniczącego, Wiceprzewodniczącego i Sekretarza Rady,
+b) wybór i odwołanie przedstawicieli Samorządu w Radzie Naukowej Instytutu,
+c) wybór i odwołanie pełnomocników Rady,
+d) wybór i odwołanie sekcji zadaniowych,
+e) zmiana Regulaminu,
+f) organizacja pracy Samorządu,
+g) współpraca z organami Instytutu w sprawach należących do zakresu działania Samorządu,
+h) wyłączne prawo do wyrażania opinii Samorządu,
+i) podejmowanie działań na rzecz pozytywnych zmian sytuacji doktorantów oraz przestrzegania ich praw,
+j) podejmowanie inicjatyw sprzyjających integracji środowiska doktorantów i rozwojowi współpracy koleżeńskiej w ramach Instytutu i poza nim,
+k) powoływanie spośród członków samorządu Pełnomocników realizujących określone zadania, wyznaczając zakres ich kompetencji oraz termin wygaśnięcia pełnomocnictwa.
 
 
 
 Rozdział III
 Przewodniczący Samorządu
 
-§22
+§21
 
 1. Do obowiązków Przewodniczącego Samorządu należy w szczególności:
 a) kierowanie pracami Rady,
-b) reprezentowanie społeczności doktorantów, w szczególności wobec władz Instytutu i innych podmiotów społeczności Instytutu, a także wobec władz samorządowych i państwowych organów administracji oraz podmiotów gospodarczych,
+b) reprezentowanie Samorządu, w szczególności wobec władz Instytutu i innych podmiotów społeczności Instytutu, a także wobec władz samorządowych i państwowych organów administracji oraz podmiotów gospodarczych, 
 c) przyjmowanie skarg doktorantów dotyczących konfliktów między opiekunami naukowymi a doktorantami i przedstawienie ich Kierownikowi Studium Doktoranckiego lub, w przypadku jego nieobecności, Przewodniczącemu Rady Naukowej,
 d) czuwanie nad przestrzeganiem przez organy Samorządu postanowień niniejszego Regulaminu i innych przepisów prawa,
 e) wyznaczanie osób do realizacji uchwał Rady oraz ich nadzorowanie,
 f) dysponowanie środkami finansowymi Samorządu,
-g) dbanie o zapewnienie organom Samorządu odpowiednich warunków do ich działalności,
-h) wyznaczenie swojego zastępcy, który pełni obowiązki Przewodniczącego Samorządu w razie jego nieobecności lub w przypadkach określonych w §26. Wymagana jest zgoda wyznaczonej osoby na pełnienie funkcji zastępcy Przewodniczącego,
-i) wyznaczenie Sekretarza. Wymagana jest zgoda wyznaczonej osoby na pełnienie funkcji Sekretarza.
 
 2. Przewodniczący Samorządu działa zgodnie z uchwałami Rady podjętymi w zakresie jej kompetencji, za swoją pracę odpowiada przed Radą.
 
-3. Przewodniczący Samorządu jest zobowiązany do złożenia sprawozdania finansowego na koniec swojej kadencji. Rada może go zwolnic z tego obowiązku większością 2/3 głosów wszystkich delegatów. W razie wątpliwości wymaganą liczbę głosów zaokrągla się w dół.
 
-
-§23
+§22
 
 1. Przewodniczącego Samorządu powołuje Rada spośród swego grona.
 
@@ -255,122 +249,129 @@ i) wyznaczenie Sekretarza. Wymagana jest zgoda wyznaczonej osoby na pełnienie f
 
 3. Wybory Przewodniczącego Samorządu odbywają się przez głosowanie tajne na poszczególnych kandydatów. Każdy delegat może oddać głos na jednego kandydata lub wstrzymać się od głosu.
 
-4. Wybrany zostaje kandydat, który otrzymał najwięcej głosów, nie mniej jednak niż połowę głosów ważnych. Jeżeli żaden z kandydatów nie otrzymał w pierwszej turze wymaganej większości głosów, przeprowadza się drugą turę, w której biorą udział kandydaci, którzy otrzymali kolejno pierwszą i drugą największą liczbę głosów. W przypadku niedokonania wyboru w drugiej turze, procedurę wyborczą wyboru Przewodniczącego Samorządu powtarza się od początku.
+4. Wybrany zostaje kandydat, który otrzymał najwięcej głosów, nie mniej jednak niż połowę głosów ważnych. Jeżeli żaden z kandydatów nie otrzymał w pierwszej turze wymaganej większości głosów, przeprowadza się drugą turę, w której biorą udział kandydaci, którzy otrzymali kolejno pierwszą i drugą największą liczbę głosów. W przypadku niedokonania wyboru w drugiej turze, procedurę wyborczą wyboru Przewodniczącego Samorządu powtarza się do skutku.
+
+5. Wybory Wiceprzewodniczącego i Sekretarza są dokonywane analogicznie z ustępami 1-4.
+
+
+§23
+
+1. Rada może odwołać Przewodniczącego, Wiceprzewodniczącego i Sekretarza Samorządu w głosowaniu większością 2/3 głosów ogólnej liczby delegatów do Rady. W razie wątpliwości wymaganą liczbę głosów zaokrągla się w dół. 
 
 
 §24
 
-Rada może odwołać Przewodniczącego Samorządu w głosowaniu większością 2/3 głosów ogólnej liczby delegatów do Rady. W razie wątpliwości wymaganą liczbę głosów zaokrągla się w dół.
+1. W razie ustania kadencji Rady, Przewodniczący Samorządu pełni swoją funkcję do czasu powołania nowego Przewodniczącego Samorządu.
 
 
 §25
 
-W razie ustania kadencji Rady, Przewodniczący Samorządu pełni swoją funkcję do czasu powołania nowego Przewodniczącego Samorządu.
-
-
-§26
-
-Jeżeli w trakcie kadencji Przewodniczącego Samorządu, w stosunku do niego ustanie członkostwo w Samorządzie, tzn.:
+1. Jeżeli w trakcie kadencji Przewodniczącego Samorządu, w stosunku do niego ustanie członkostwo w Samorządzie, tzn.:
 a) zostanie on odwołany,
 b) złoży rezygnację,
 c) będzie trwale niezdolny do pełnienia obowiązków Przewodniczącego, o niezdolności orzeka Rada zwykłą większością głosów,
-Rada niezwłocznie powołuje nowego Przewodniczącego Samorządu w trybie określonym w przepisach §23.
+Rada niezwłocznie powołuje nowego Przewodniczącego Samorządu w trybie określonym w przepisach §22.
 
 
 
 Rozdział IV
-Komisje Programowe
+Sekcje zadaniowe
+
+§26
+
+1. Sekcje Zadaniowe Samorządu, zwane dalej Sekcjami, są powoływane w celu usprawnienia działania Samorządu i działają w ramach uprawnień przekazanych im przez Radę.
+
+2. Sekcje powołuje i odwołuje Rada.
+
 
 §27
 
-1. Komisje programowe Samorządu są powoływane w celu usprawnienia działania Samorządu i działają w ramach uprawnień przekazanych im przez Radę.
-
-2. Komisje powołuje i odwołuje Rada.
+1. Sekcje pracują na zasadach zatwierdzonych przez Radę.
 
 
 §28
 
-Komisje pracują na zasadach zatwierdzonych przez Radę.
+1. W skład Sekcji wchodzą członkowie Rady i pełnomocnicy.
 
 
 §29
 
-1. W skład komisji wchodzą członkowie Samorządu w liczbie od trzech do sześciu, w tym co najmniej jeden członek Rady.
-
-2. Skład komisji powołuje Rada.
+1. Rada może odwołać Sekcję lub poszczególnych jej członków w głosowaniu, zwykłą większością głosów, w obecności co najmniej połowy delegatów.
 
 
 §30
 
-Rada może odwołać komisję lub poszczególnych jej członków w głosowaniu, zwykłą większością głosów, w obecności co najmniej połowy delegatów.
+1. Kierownikiem Sekcji może być członek Rady wchodzący w jej skład, wybrany przez Radę zwykłą większością głosów.
 
 
 §31
 
-Przewodniczącym komisji jest z urzędu członek Rady wchodzący w jej skład, wybrany przez Radę zwykłą większością głosów.
+1. Do podstawowych obowiązków Kierownika Sekcji należy:
+a) kierowanie pracami Sekcji,
+b) w sytuacjach nagłych podejmowanie decyzji, w porozumieniu z Przewodniczącym Samorządu, w sprawach będących w kompetencji Sekcji.
+c) sprawozdawanie z prac sekcji raz na kwartał do oceny przewodniczącego Rady.
 
-
-§32
-
-Do podstawowych obowiązków przewodniczącego komisji należy:
-a) kierowanie pracami komisji,
-b) w sytuacjach nagłych podejmowanie decyzji, w porozumieniu z Przewodniczącym Samorządu, w sprawach będących w kompetencji komisji.
+2. W razie negatywnej oceny działalności Sekcji Kierownik pozbawiany jest swojej funkcji w głosowaniu, zwykłą większością głosów, w obecności co najmniej połowy delegatów.
 
 
 
 Rozdział V
-Przedstawiciele Doktorantów w Kolegium Instytutu.
+Sąd Koleżeński
 
-§33
+§32
 
-Delegaci do Rady reprezentują społeczność doktorantów w Kolegium Instytutu i biorą udział w jego pracach.
+1.Sąd Koleżeński orzeka w sprawach dyscyplinarnych doktorantów Instytutu.
 
-
-§34
-
-Przedstawicieli Doktorantów w Kolegium Instytutu, w liczbie dwóch osób, wybiera Rada spośród swego grona w głosowaniu, zwykłą większością głosów, w obecności co najmniej połowy delegatów.
-
-
-§35
-
-W zakresie pełnienia swego mandatu Przedstawiciel Doktorantów w Kolegium Instytutu działa zgodnie z uchwałami Rady.
+2.Szczegółowy tryb postępowania przed sądem określa Regulamin Sądu Koleżeńskiego, który stanowi załącznik nr 1 do niniejszego Regulaminu
 
 
 
 Rozdział VI
 Przedstawiciele Doktorantów w Radzie Naukowej Instytutu.
 
-§36
+§33
 
-Delegaci do Rady reprezentują społeczność doktorantów w Radzie Naukowej Instytutu i biorą udział w jej posiedzeniach na zasadach określonych przez Przewodniczącego Rady Naukowej.
+1. Organ wykonawczy Samorządu Doktorantów Instytutu wybiera spośród swoich członków Przedstawiciela doktorantów w Radzie Naukowej Instytutu.
 
+2. Przedstawiciel doktorantów w Radzie Naukowej Instytutu jest reprezentantem doktorantów i bierze udział w posiedzeniach Rady Naukowej z głosem stanowiącym.
 
-§37
+3. Organ wykonawczy Samorządu Doktorantów Instytutu zobowiązany jest podjąć uchwałę o wyborze Przedstawiciela doktorantów w Radzie Naukowej Instytutu na ostatnim posiedzeniu w danym roku kalendarzowym, jednak nie później niż do dnia 20 grudnia każdego roku kalendarzowego.
 
-Przedstawicieli Doktorantów w Radzie Naukowej Instytutu, w liczbie dwóch osób, wybiera Rada spośród swego grona w głosowaniu, zwykłą większością głosów, w obecności co najmniej połowy delegatów.
+4. Przedstawiciel doktorantów w Radzie Naukowej Instytutu wybierany jest zwykłą większością głosów w obecności co najmniej połowy członków uprawnionych do głosowania, spośród osób, które zgłosiły swą kandydaturę po otwarciu obrad.
+
+5. Kadencja przedstawiciela w Radzie Naukowej Instytutu trwa 1 rok odpowiadający jednemu rokowi kalandarzowemu.
+
+6. Mandat Przedstawiciela doktorantów w Radzie Naukowej Instytutu wygasa na skutek:
+a) śmierci,
+b) złożenia rezygnacji,
+c) utraty statusu doktoranta,
+d) nieuczestniczenia w pracach Rady Naukowej Instytutu przez okres dłuższy niż sześć miesięcy,
+e) skazania prawomocnym wyrokiem za umyślne przestępstwo lub przestępstwo skarbowe.
+
+7. W przypadku wygaśnięcia mandatu Przedstawiciela Doktorantów w Radzie Naukowej Instytutu organ wykonawczy Samorządu Doktorantów w trybie natychmiastowym dokonuje uzupełnień wakatu na zasadach opisanych w ust. 4 niniejszego paragrafu. Kadencja wybranego wybranego w ten sposób Przedstawiciela doktorantów w Radzie Naukowej Instytutu trwa do końca roku kalendarzowego, w którym został on wybrany.
 
 
 
 Rozdział VII
 Postanowienia końcowe
 
-§38
+§34
 
 1. Regulamin może być zmieniony uchwałą Rady podjętą w głosowaniu, większością co najmniej 2/3 głosów wszystkich delegatów do Rady. W razie wątpliwości wymaganą liczbę głosów zaokrągla się w górę.
 
 2. O każdej zmianie w Regulaminie Przewodniczący Rady Doktorantów zobowiązany jest poinformować Kierownika Studium oraz Dyrektora Instytutu.
 
 
-§39
+§35
 
 1. Sprawy nieuregulowane w Regulaminie rozstrzyga Przewodniczący Samorządu w oparciu o przepisy Kodeksu Cywilnego.
 
 2. W celu rozstrzygnięcia sprawy, Przewodniczący Samorządu może zwołać posiedzenie Rady.
 
 
-§40
+§36
 
-Regulamin wchodzi w życie z dniem podpisania go przez wszystkich członków Rady Doktorantów.
+Regulamin wchodzi w życie z dniem podpisania go przez wszystkich członków Rady.
 
 
 
@@ -432,3 +433,24 @@ Dorota Kulesza
 Katarzyna Wierzbicka
 Katarzyna Żybura-Broda
 Małgorzata Figiel
+
+
+
+
+Zmiany w Regulaminie: § 7, pkt. 7; § 10, pkt. 2,3; § 11, pkt. 2, 8, 9, 10, 12, 13; § 13, pkt. 1, 2; § 15, pkt. 3, 4; § 16, pkt. 1, 3, 5, 6; § 18, pkt. 3, 5; § 20, pkt. 1; § 21, pkt. 1, 2, 3; § 22, pkt. 2, 4, 5; § 23, pkt.  1; § 24, pkt. 1; § 26, pkt. 1, 2; § 27, pkt. 1; § 28, pkt. 1, 2; § 29, pkt. 1; § 30, pkt. 1; § 31, pkt. 1, 2; § 32, pkt. 1, 2; § 33, pkt. 1, 2, 3, 4, 5, 6, 7
+Warszawa, 5 grudnia 2014 Rada Samorządu Doktorantów IBD PAN
+Tomasz Bednarski
+Agnieszka Topolska-Woś
+Beata Kądziołka
+Weronika Duda
+Wioleta Dudka-Ruszkowska
+Katarzyna Konarzewska
+Ilona Kotlewska-Kowalska
+Tomasz Lebitko
+Agnieszka Płóciennikowska
+Alicja Puścian
+Karolina Rokosz
+Olga Sakharczuk
+Ewa Szczęsna
+Marcin Woś
+Magdalena Chojnacka
