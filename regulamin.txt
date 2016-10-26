@@ -154,7 +154,7 @@ W zakresie pełnienia swego mandatu delegat do Rady zobowiązany jest brać czyn
 
 2. Posiedzenia przebiegają według porządku zaproponowanego przez Przewodniczącego Samorządu.
 
-3. Każdy delegat do Rady, za zgodą Przewodniczącego Samorządu, może wprowadzić do porządku posiedzenia zgłoszone przez siebie zagadnienie w trakcie posiedzenia.
+3. Każdy delegat do Rady, za zgodą prowadzącego posiedzenie, może wprowadzić do porządku posiedzenia zgłoszone przez siebie zagadnienie w trakcie posiedzenia.
 
 4. Posiedzenia Rady odbywają się nie rzadziej niż raz w miesiącu.
 
@@ -190,15 +190,20 @@ c) na pisemny wniosek Kierownika Studium Doktoranckiego lub Dyrektora Instytutu.
 
 §18
 
-1. Posiedzenie Rady prowadzi Przewodniczący Samorządu.
+1. (uchylony)
 
-2. W razie potrzeby posiedzenie Rady może prowadzić inny delegat do Rady wskazany przez Przewodniczącego Samorządu lub osoba wyznaczona przez Radę do pełnienia tej funkcji zwykłą większością głosów.
+2. Posiedzenie Rady prowadzi:
+a) Przewodniczący Samorządu,
+b) delegat do Rady wskazany przez Przewodniczącego Samorządu - w przypadku nieobecności osoby wymienionej w poprzedzającym punkcie,
+c) Wiceprzewodniczący Samorządu - w przypadku nieobecności osób wymienionych w poprzedzających punktach,
+d) delegat do Rady wskazany przez Wiceprzewodniczącego Samorządu - w przypadku nieobecności osób wymienionych w poprzedzających punktach,
+e) delegat do Rady wyznaczony przez Radę do pełnienia tej funkcji zwykłą większością głosów.
 
-3. Posiedzenie Rady protokołuje Sekretarz Rady. W przypadku nieobecności na posiedzeniu sekretarza, obrady protokółuje osoba wyznaczona przez prowadzącego obrady.
+3. Posiedzenie Rady protokołuje Sekretarz Rady. W przypadku nieobecności na posiedzeniu Sekretarza Rady, obrady protokołuje osoba wyznaczona przez prowadzącego obrady.
 
 4. Protokół podlega zatwierdzeniu przez Przewodniczącego Samorządu lub osobę pełniącą jego obowiązki i jest wysyłany drogą elektroniczną do wszystkich członków Rady.
 
-5. Zatwierdzony protokół podpisuje osoba wspomniana w ust. 2 oraz sekretarz na początku następnego posiedzenia.
+5. Zatwierdzony protokół osoby wyznaczone w ust. 2 i 3 podpisują na początku następnego posiedzenia.
 
 
 §19
