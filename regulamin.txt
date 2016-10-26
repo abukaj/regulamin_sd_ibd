@@ -57,6 +57,17 @@ f) uczestniczy, poprzez swoich przedstawicieli, w posiedzeniach Rady Naukowej,
 g) może prowadzić działalność socjalno-bytową, społeczną, kulturową, oświatową, naukową i sportową.
 
 
+§7a
+
+1. Ilekroć mowa o podaniu informacji do publicznej wiadomości przez Organy Samorządu, należy przez to rozumieć jednoczesne:
+a) rozesłanie informacji pocztą elektroniczną poprzez listę dyskusyjną doktoranci@nencki.gov.pl,
+b) umieszczenie informacji na stronie WWW Samorządu,
+c) umieszczenie informacji na tablicy ogłoszeń Samorządu,
+d) umieszczenie informacji na wszystkich portalach społecznościowych oficjalnie wykorzystywanych przez Samorząd.
+
+2. Każda informacja podana do publicznej wiadomości powinna mieć polską i angielską wersję językową, przy czym polska wersja językowa jest traktowana jako podstawa wykładni.
+
+
 
 Rozdział II
 Rada Samorządu Doktorantów
@@ -84,10 +95,7 @@ Rada Samorządu Doktorantów
 
 §11
 
-1. Wybory do Rady ogłasza w językach polskim i angielskim ustępująca Rada poprzez:
-a) rozesłanie zawiadomień pocztą elektroniczną poprzez listę dyskusyjną doktoranci@nencki.gov.pl,
-b) umieszczenie informacji na stronie WWW Samorządu,
-c) umieszczenie zawiadomienia na tablicy ogłoszeń Samorządu.
+1. Wybory do Rady ogłasza ustępująca Rada.
 
 2. Do przeprowadzenia głosowań Rada powołuje Komisję Wyborczą spośród członków Samorządu, w terminie nie później niż 35 dni przed upływem bieżącej kadencji Rady.
 
