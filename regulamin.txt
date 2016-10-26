@@ -152,9 +152,9 @@ W zakresie pełnienia swego mandatu delegat do Rady zobowiązany jest brać czyn
 
 1. Rada obraduje na posiedzeniach.
 
-2. Posiedzenia przebiegają według porządku zaproponowanego przez Przewodniczącego.
+2. Posiedzenia przebiegają według porządku zaproponowanego przez Przewodniczącego Samorządu.
 
-3. Każdy delegat do Rady może wprowadzić do porządku posiedzenia zgłoszone przez siebie zagadnienie w trakcie posiedzenia, za zgodą Przewodniczącego.
+3. Każdy delegat do Rady, za zgodą Przewodniczącego Samorządu, może wprowadzić do porządku posiedzenia zgłoszone przez siebie zagadnienie w trakcie posiedzenia.
 
 4. Posiedzenia Rady odbywają się nie rzadziej niż raz w miesiącu.
 
@@ -170,7 +170,7 @@ c) na pisemny wniosek Kierownika Studium Doktoranckiego lub Dyrektora Instytutu.
 
 3. Ustępujący Przewodniczący Samorządu zwołuje pierwsze posiedzenie nowo wybranej Rady nie później niż 15 stycznia.
 
-4. Porządek obrad pierwszego posiedzenia Rady winien obejmować wybór nowego Przewodniczącego Samorządu, Wiceprzewodniczącego i Sekretarza.
+4. Porządek obrad pierwszego posiedzenia Rady winien obejmować wybór nowego Przewodniczącego Samorządu, Wiceprzewodniczącego Samorządu i Sekretarza Rady.
 
 5. W razie nie wybrania Przewodniczącego Samorządu na pierwszym posiedzeniu Rady, nowo wybrana Rada zobowiązana jest do wybrania Przewodniczącego Samorządu w terminie nie przekraczającym 14 dni od pierwszego posiedzenia Rady, pod rygorem rozwiązania Rady.
 
@@ -194,9 +194,9 @@ c) na pisemny wniosek Kierownika Studium Doktoranckiego lub Dyrektora Instytutu.
 
 2. W razie potrzeby posiedzenie Rady może prowadzić inny delegat do Rady wskazany przez Przewodniczącego Samorządu lub osoba wyznaczona przez Radę do pełnienia tej funkcji zwykłą większością głosów.
 
-3. Posiedzenie Rady protokołuje Sekretarz. W przypadku nieobecności na posiedzeniu sekretarza, obrady protokółuje osoba wyznaczona przez prowadzącego obrady.
+3. Posiedzenie Rady protokołuje Sekretarz Rady. W przypadku nieobecności na posiedzeniu sekretarza, obrady protokółuje osoba wyznaczona przez prowadzącego obrady.
 
-4. Protokół podlega zatwierdzeniu przez Przewodniczącego lub osobę pełniącą obowiązki Przewodniczącego i jest wysyłany drogą elektroniczną do wszystkich członków Rady.
+4. Protokół podlega zatwierdzeniu przez Przewodniczącego Samorządu lub osobę pełniącą jego obowiązki i jest wysyłany drogą elektroniczną do wszystkich członków Rady.
 
 5. Zatwierdzony protokół podpisuje osoba wspomniana w ust. 2 oraz sekretarz na początku następnego posiedzenia.
 
@@ -213,7 +213,7 @@ c) na pisemny wniosek Kierownika Studium Doktoranckiego lub Dyrektora Instytutu.
 §20
 
 1. Do kompetencji Rady należy określenie kierunków działania Samorządu, a w szczególności:
-a) wybór i odwołanie Przewodniczącego, Wiceprzewodniczącego i Sekretarza Rady,
+a) wybór i odwołanie Przewodniczącego Samorządu, Wiceprzewodniczącego Samorządu i Sekretarza Rady,
 b) wybór i odwołanie przedstawicieli Samorządu w Radzie Naukowej Instytutu,
 c) wybór i odwołanie pełnomocników Rady,
 d) wybór i odwołanie sekcji zadaniowych,
@@ -253,12 +253,12 @@ f) dysponowanie środkami finansowymi Samorządu,
 
 4. Wybrany zostaje kandydat, który otrzymał najwięcej głosów, nie mniej jednak niż połowę głosów ważnych. Jeżeli żaden z kandydatów nie otrzymał w pierwszej turze wymaganej większości głosów, przeprowadza się drugą turę, w której biorą udział kandydaci, którzy otrzymali kolejno pierwszą i drugą największą liczbę głosów. W przypadku niedokonania wyboru w drugiej turze, procedurę wyborczą wyboru Przewodniczącego Samorządu powtarza się do skutku.
 
-5. Wybory Wiceprzewodniczącego i Sekretarza są dokonywane analogicznie z ustępami 1-4.
+5. Wybory Wiceprzewodniczącego Samorządu i Sekretarza Rady są dokonywane analogicznie z ustępami 1-4.
 
 
 §23
 
-1. Rada może odwołać Przewodniczącego, Wiceprzewodniczącego i Sekretarza Samorządu w głosowaniu większością 2/3 głosów ogólnej liczby delegatów do Rady. W razie wątpliwości wymaganą liczbę głosów zaokrągla się w dół. 
+1. Rada może odwołać Przewodniczącego Samorządu, Wiceprzewodniczącego Samorządu i Sekretarza Rady w głosowaniu większością 2/3 głosów ogólnej liczby delegatów do Rady. W razie wątpliwości wymaganą liczbę głosów zaokrągla się w dół. 
 
 
 §24
@@ -271,7 +271,7 @@ f) dysponowanie środkami finansowymi Samorządu,
 1. Jeżeli w trakcie kadencji Przewodniczącego Samorządu, w stosunku do niego ustanie członkostwo w Samorządzie, tzn.:
 a) zostanie on odwołany,
 b) złoży rezygnację,
-c) będzie trwale niezdolny do pełnienia obowiązków Przewodniczącego, o niezdolności orzeka Rada zwykłą większością głosów,
+c) będzie trwale niezdolny do pełnienia obowiązków Przewodniczącego Samorządu, o niezdolności orzeka Rada zwykłą większością głosów,
 Rada niezwłocznie powołuje nowego Przewodniczącego Samorządu w trybie określonym w przepisach §22.
 
 
@@ -311,7 +311,7 @@ Sekcje zadaniowe
 1. Do podstawowych obowiązków Kierownika Sekcji należy:
 a) kierowanie pracami Sekcji,
 b) w sytuacjach nagłych podejmowanie decyzji, w porozumieniu z Przewodniczącym Samorządu, w sprawach będących w kompetencji Sekcji.
-c) sprawozdawanie z prac sekcji raz na kwartał do oceny przewodniczącego Rady.
+c) sprawozdawanie z prac sekcji raz na kwartał do oceny Przewodniczącego Samorządu.
 
 2. W razie negatywnej oceny działalności Sekcji Kierownik pozbawiany jest swojej funkcji w głosowaniu, zwykłą większością głosów, w obecności co najmniej połowy delegatów.
 
@@ -361,7 +361,7 @@ Postanowienia końcowe
 
 1. Regulamin może być zmieniony uchwałą Rady podjętą w głosowaniu, większością co najmniej 2/3 głosów wszystkich delegatów do Rady. W razie wątpliwości wymaganą liczbę głosów zaokrągla się w górę.
 
-2. O każdej zmianie w Regulaminie Przewodniczący Rady Doktorantów zobowiązany jest poinformować Kierownika Studium oraz Dyrektora Instytutu.
+2. O każdej zmianie w Regulaminie Przewodniczący Samorządu zobowiązany jest poinformować Kierownika Studium oraz Dyrektora Instytutu.
 
 
 §35
