@@ -89,7 +89,7 @@ a) rozesłanie zawiadomień pocztą elektroniczną poprzez listę dyskusyjną do
 b) umieszczenie informacji na stronie WWW Samorządu,
 c) umieszczenie zawiadomienia na tablicy ogłoszeń Samorządu.
 
-2. Do przeprowadzenia głosowań Rada powołuje Komisję Wyborczą spośród członków Samorządu, w terminie nie później niż 35 dni przed upływem bieżącej kadencji Rady. Członek Komisji Wyborczej nie może kandydować do Rady.
+2. Do przeprowadzenia głosowań Rada powołuje Komisję Wyborczą spośród członków Samorządu, w terminie nie później niż 35 dni przed upływem bieżącej kadencji Rady.
 
 3. Komisja Wyborcza liczy co najmniej trzy osoby, lecz nie więcej niż pięć. W miarę możliwości, w Komisji Wyborczej powinny być reprezentowane wszystkie zakłady działające w Instytucie.
 
@@ -103,9 +103,11 @@ c) umieszczenie zawiadomienia na tablicy ogłoszeń Samorządu.
 
 8. Wybory powinny zakończyć się nie później niż 7 dni przed upływem bieżącej kadencji Rady.
 
-9. Czynne i bierne prawo wyborcze mają wszyscy członkowie Samorządu będący doktorantami danego zakładu.
+9. W zakładzie bierne prawo wyborcze mają wszyscy podlegający mu członkowie Samorządu,
 
-10. Każdy uprawniony do głosowania ma prawo zgłaszania swojej kandydatury w terminie zgodnym z ust. 4.
+9a. W zakładzie czynne prawo wyborcze mają wszyscy podlegający mu członkowie Samorządu, z wyłączeniem członków Komisji Wyborczej.
+
+10. Każdy posiadający czynne prawo wyborcze ma prawo zgłosić swoją kandydaturę Komisji Wyborczej w terminie ogłoszonym zgodnie z ust. 4.
 
 11. Wyboru delegatów do Rady dokonuje się w głosowaniu tajnym na poszczególnych kandydatów. Każdy głosujący może oddać głos na jednego lub więcej kandydatów – nie więcej jednak niż wynosi liczba mandatów w danym zakładzie, albo wstrzymać się od głosu.
 
