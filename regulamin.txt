@@ -70,9 +70,9 @@ Rada Samorządu Doktorantów
 
 1. W skład Rady wchodzą doktoranci - delegaci poszczególnych zakładów działających w Instytucie.
 
-2. Liczbę delegatów przysługujących każdemu zakładowi oblicza się dzieląc liczbę doktorantów danego zakładu przez dziesięć i zaokrąglając otrzymany wynik, przy czym każdy zakład ma prawo do minimum 1 i maksimum 3 delegatów.
+2. Każdemu zakładowi przysługuje liczba mandatów obliczona przez podział liczby doktorantów danego zakładu przez 10 (dziesięć), pomniejszenie wyniku o 0,05 (pięć setnych) i zaokrąglenie do najbliższej liczby całkowitej, jednak nie mniej niż 1 (jeden) mandat i nie więcej niż 3 (trzy) mandaty.
 
-3. Wskazane w ust. 2 zaokrąglenie jest zaokrągleniem w górę, gdy wartość wynosi minimum 6 dziesiątych, natomiast poniżej zaokrągla się w dół.
+3. (uchylony)
 
 4. W skład Rady może dodatkowo wchodzić jeden przedstawiciel doktorantów Instytutu nie podlegających poszczególnym zakładom Instytutu. Przedstawiciel ten jest wybierany przez wyżej wymienionych doktorantów na ustalonych przez nich zasadach i jest podawany do wiadomości Komisji Wyborczej nie później niż na 2 tygodnie przed upływem bieżącej kadencji Rady.
 
