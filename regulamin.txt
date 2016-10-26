@@ -74,7 +74,7 @@ Rada Samorządu Doktorantów
 
 3. (uchylony)
 
-4. W skład Rady może dodatkowo wchodzić jeden przedstawiciel członków Samorządu nie podlegających żadnemu zakładowi Instytutu. Przedstawiciel ten jest przez nich wybierany na ustalonych przez nich zasadach i jest podawany do wiadomości Komisji Wyborczej nie później niż na 2 tygodnie przed upływem bieżącej kadencji Rady.
+4. W skład Rady może dodatkowo wchodzić jeden przedstawiciel członków Samorządu nie podlegających żadnemu zakładowi Instytutu. Przedstawiciel ten jest przez nich wybierany na ustalonych przez nich zasadach i jest podawany do wiadomości Komisji Wyborczej nie później niż na 14 dni przed upływem bieżącej kadencji Rady.
 
 
 §10
@@ -86,17 +86,17 @@ Rada Samorządu Doktorantów
 
 1. Wybory do Rady ogłasza ustępująca Rada.
 
-2. Do przeprowadzenia głosowań Rada powołuje Komisję Wyborczą spośród członków Samorządu, w terminie nie później niż 5 tygodni przed upływem bieżącej kadencji Rady. Członek Komisji Wyborczej nie może kandydować do Rady.
+2. Do przeprowadzenia głosowań Rada powołuje Komisję Wyborczą spośród członków Samorządu, w terminie nie później niż 35 dni przed upływem bieżącej kadencji Rady. Członek Komisji Wyborczej nie może kandydować do Rady.
 
 3. Komisja Wyborcza liczy co najmniej trzy osoby, lecz nie więcej niż pięć. W miarę możliwości, w Komisji Wyborczej powinny być reprezentowane wszystkie zakłady działające w Instytucie.
 
-4. W przeciągu tygodnia od powołania Komisji Wyborczej, Komisja ta ogłasza liczbę mandatów przysługujących każdemu zakładowi, termin i formę wyborów oraz co najmniej 7-dniowy termin zgłaszania kandydatów.
+4. W przeciągu 7 dni od powołania Komisji Wyborczej, Komisja ta ogłasza liczbę mandatów przysługujących każdemu zakładowi, termin i formę wyborów oraz co najmniej 7-dniowy termin zgłaszania kandydatów.
 
 5. Termin wyborów, ich formę, liczbę mandatów do obsadzenia i nazwiska kandydatów do Rady, osobno dla każdego zakładu, Komisja podaje do publicznej wiadomości nie później niż na 7 dni przed wyborami w pierwszym z zakładów. Od rozpoczęcia wyborów w pierwszym z zakładów do zakończenia w ostatnim nie może upłynąć więcej niż 1 tydzień.
 
 6. Wyboru delegatów do Rady dokonują członkowie Samorządu.
 
-7. Komisja Wyborcza rozstrzyga protesty i wynikłe wątpliwości związane z przebiegiem wyborów, w terminie nie przekraczającym 1 tygodnia od ogłoszenia wyników wyborów.
+7. Komisja Wyborcza rozstrzyga protesty i wynikłe wątpliwości związane z przebiegiem wyborów, w terminie nie przekraczającym 7 dni od ogłoszenia wyników wyborów.
 
 8. Wybory powinny zakończyć się nie później niż 7 dni przed upływem bieżącej kadencji Rady.
 
@@ -170,7 +170,7 @@ c) na pisemny wniosek Kierownika Studium Doktoranckiego lub Dyrektora Instytutu.
 
 4. Porządek obrad pierwszego posiedzenia Rady winien obejmować wybór nowego Przewodniczącego Samorządu, Wiceprzewodniczącego i Sekretarza.
 
-5. W razie nie wybrania Przewodniczącego Samorządu na pierwszym posiedzeniu Rady, nowo wybrana Rada zobowiązana jest do wybrania Przewodniczącego Samorządu w terminie nie przekraczającym 2 tygodni od pierwszego posiedzenia Rady, pod rygorem rozwiązania Rady.
+5. W razie nie wybrania Przewodniczącego Samorządu na pierwszym posiedzeniu Rady, nowo wybrana Rada zobowiązana jest do wybrania Przewodniczącego Samorządu w terminie nie przekraczającym 14 dni od pierwszego posiedzenia Rady, pod rygorem rozwiązania Rady.
 
 6. Przewodniczący Samorządu zobowiązany jest powiadomić wszystkich delegatów do Rady o terminie, miejscu i proponowanym porządku obrad, nie później niż na 3 dni przed datą posiedzenia. Termin posiedzenia podaje się do publicznej wiadomości Samorządu.
 
