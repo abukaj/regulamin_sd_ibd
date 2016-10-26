@@ -86,7 +86,8 @@ Rada Samorządu Doktorantów
 
 1. Wybory do Rady ogłasza w językach polskim i angielskim ustępująca Rada poprzez:
 a) rozesłanie zawiadomień pocztą elektroniczną poprzez listę dyskusyjną doktoranci@nencki.gov.pl,
-b) umieszczenie zawiadomienia na tablicy ogłoszeń Samorządu.
+b) umieszczenie informacji na stronie WWW Samorządu,
+c) umieszczenie zawiadomienia na tablicy ogłoszeń Samorządu.
 
 2. Do przeprowadzenia głosowań Rada powołuje Komisję Wyborczą spośród członków Samorządu, w terminie nie później niż 35 dni przed upływem bieżącej kadencji Rady. Członek Komisji Wyborczej nie może kandydować do Rady.
 
