@@ -307,7 +307,7 @@ d) uzasadnionego podejrzenia uchylania się Przewodniczącego Samorządu od wype
 
 §23
 
-1. Rada może odwołać Przewodniczącego Samorządu, Wiceprzewodniczącego Samorządu i Sekretarza Rady w głosowaniu większością 2/3 głosów ogólnej liczby delegatów do Rady. Wymaganą liczbę głosów zaokrągla się do najbliższej mniejszej liczby całkowitej.
+1. Rada może odwołać Przewodniczącego Samorządu, Wiceprzewodniczącego Samorządu i Sekretarza Rady w głosowaniu większością 2/3 głosów ogólnej liczby delegatów do Rady. Wymaganą liczbę głosów zaokrągla się do najbliższej niewiększej liczby całkowitej.
 
 
 §24
@@ -408,7 +408,7 @@ Postanowienia końcowe
 
 §34
 
-1. Regulamin może być zmieniony uchwałą Rady podjętą w głosowaniu, większością co najmniej 2/3 głosów wszystkich delegatów do Rady. W razie wątpliwości wymaganą liczbę głosów zaokrągla się w górę.
+1. Regulamin może być zmieniony uchwałą Rady podjętą w głosowaniu, większością co najmniej 2/3 głosów wszystkich delegatów do Rady. Wymaganą liczbę głosów zaokrągla się do najbliższej niemniejszej liczby całkowitej.
 
 2. O każdej zmianie w Regulaminie Przewodniczący Samorządu zobowiązany jest poinformować Kierownika Studiów Doktoranckich oraz Dyrektora Instytutu.
 
