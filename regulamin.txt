@@ -35,7 +35,8 @@ d) biernego i czynnego prawa wyborczego do organów Samorządu.
 1. Utrata członkostwa w Samorządzie następuje w razie:
 a) (uchylony)
 b) utraty statusu uczestnika studiów doktoranckich organizowanych przez Instytut,
-c) pisemnej rezygnacji z członkostwa przekazanej Przewodniczącemu Samorządu.
+c) pisemnej rezygnacji z członkostwa przekazanej Przewodniczącemu Samorządu,
+d) śmierci.
 
 
 §6
@@ -142,11 +143,11 @@ d) co najmniej 1/5 członków Samorządu - po bezskutecznej próbie wezwania do 
 
 §12
 
-1. Mandat delegata do Rady wygasa:
-a) w razie jego rezygnacji,
+1. Mandat delegata do Rady wygasa w razie:
+a) pisemnej rezygnacji przekazanej Przewodniczącemu Samorządu,
 b) ustania jego członkostwa w Samorządzie,
-c) odwołania w drodze referendum przez członków samorządu,
-d) w razie niezdolności do pełnienia przez niego mandatu przez okres dłuższy niż 4 miesiące, o niezdolności orzeka Rada zwykłą większością głosów.
+c) odwołania w drodze referendum przez członków Samorządu,
+d) niezdolności do pełnienia przez niego mandatu przez okres dłuższy niż 4 miesiące, o niezdolności orzeka Rada zwykłą większością głosów.
 
 2. W razie wygaśnięcia mandatu, mandat przejmuje następny kandydat z największą liczbą głosów uzyskanych w wyborach.
 
@@ -397,9 +398,9 @@ Przedstawiciele Doktorantów w Radzie Naukowej Instytutu.
 5. Kadencja Przedstawiciela w Radzie Naukowej Instytutu rozpoczyna się z chwilą określoną w uchwale, o której mowa w ust. 3.
 
 6. Mandat Przedstawiciela doktorantów w Radzie Naukowej Instytutu wygasa na skutek:
-a) śmierci,
+a) (uchylony),
 b) złożenia rezygnacji Przewodniczącemu Samorządu,
-c) utraty statusu doktoranta,
+c) ustania jego członkostwa w Samorządzie,
 d) nieuczestniczenia w pracach Rady Naukowej Instytutu przez okres dłuższy niż 180 dni,
 e) skazania prawomocnym wyrokiem za umyślne przestępstwo lub przestępstwo skarbowe,
 f) odwołania na zasadach określonych w par. 23 ust. 1,
