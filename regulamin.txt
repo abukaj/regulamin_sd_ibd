@@ -218,7 +218,7 @@ c) Wiceprzewodniczący Samorządu - w przypadku nieobecności osób wymienionych
 d) delegat do Rady wskazany przez Wiceprzewodniczącego Samorządu - w przypadku nieobecności osób wymienionych w poprzedzających punktach,
 e) delegat do Rady wyznaczony przez Radę do pełnienia tej funkcji zwykłą większością głosów.
 
-3. Posiedzenie Rady protokołuje Sekretarz Rady. W przypadku nieobecności na posiedzeniu Sekretarza Rady, obrady protokołuje osoba wyznaczona przez prowadzącego obrady.
+3. Posiedzenie Rady protokołuje Sekretarz Rady. W przypadku nieobecności na posiedzeniu Sekretarza Rady, posiedzenie protokołuje osoba wyznaczona przez prowadzącego posiedzenie.
 
 4. Protokół podlega zatwierdzeniu przez Przewodniczącego Samorządu lub osobę pełniącą jego obowiązki i jest wysyłany drogą elektroniczną do wszystkich członków Rady.
 
@@ -229,7 +229,7 @@ e) delegat do Rady wyznaczony przez Radę do pełnienia tej funkcji zwykłą wi�
 
 1. Uchwały Rady zapadają w głosowaniu jawnym, zwykłą większością głosów, w obecności co najmniej połowy delegatów, chyba że Regulamin przewiduje inaczej.
 
-2. Na wniosek co najmniej dwóch delegatów prowadzący obrady zarządza głosowanie tajne w określonej sprawie.
+2. Na wniosek co najmniej dwóch delegatów prowadzący posiedzenie zarządza głosowanie tajne w określonej sprawie.
 
 3. W sprawach personalnych Rada podejmuje uchwały w głosowaniach tajnych.
 
