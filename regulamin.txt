@@ -160,9 +160,9 @@ f) zakończenia kadencji Rady.
 
 §13
 
-1. Referendum, o którym mowa w §12 ust. 1 lit. c) przeprowadza Komisja Wyborcza:
-a) na wniosek co najmniej 1/5 ogólnej liczby członków samorządu,
-b) na pisemne żądanie Rady.
+1. Referendum, o którym mowa w §12 ust. 1 lit. c) przeprowadza Komisja Wyborcza powołana przez Radę:
+a) na wniosek co najmniej 1/5 ogólnej liczby członków samorządu, lub
+b) z inicjatywy Rady.
 
 2. Wynik referendum jest wiążący, jeżeli w referendum udział wzięło co najmniej 30% członków samorządu uprawnionych do głosowania.
 
