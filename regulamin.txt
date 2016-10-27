@@ -34,8 +34,8 @@ d) biernego i czynnego prawa wyborczego do organów Samorządu.
 
 1. Utrata członkostwa w Samorządzie następuje w razie:
 a) (uchylony)
-b) utraty statusu uczestnika studiów doktoranckich organizowanych przez Instytut,
-c) pisemnej rezygnacji z członkostwa przekazanej Przewodniczącemu Samorządu,
+b) utraty statusu uczestnika studiów doktoranckich organizowanych przez Instytut, lub
+c) pisemnej rezygnacji z członkostwa przekazanej Przewodniczącemu Samorządu, lub
 d) śmierci.
 
 
@@ -135,20 +135,20 @@ b) termin wskazany w ust. 8 zamienia się na termin 59 dni od rozpoczęcia kaden
 16. (uchylony)
 
 17. W razie braku Rady, czynności przewidziane w ust. 1-2 może przeprowadzić:
-a) Przewodniczący Samorządu,
-b) Wiceprzewodniczący Samorządu - po bezskutecznej próbie wezwania do tego osoby wymienionej w lit. a),
-c) Kierownik Studiów Doktoranckich - po bezskutecznej próbie wezwania do tego osób wymienionych w lit. a)-b),
+a) Przewodniczący Samorządu, lub
+b) Wiceprzewodniczący Samorządu - po bezskutecznej próbie wezwania do tego osoby wymienionej w lit. a), lub
+c) Kierownik Studiów Doktoranckich - po bezskutecznej próbie wezwania do tego osób wymienionych w lit. a)-b), lub
 d) co najmniej 1/5 członków Samorządu - po bezskutecznej próbie wezwania do tego osób wymienionych w lit. a)-c).
 
 
 §12
 
 1. Mandat delegata do Rady wygasa w razie:
-a) pisemnej rezygnacji przekazanej Przewodniczącemu Samorządu,
-b) ustania jego członkostwa w Samorządzie,
-c) odwołania w drodze referendum przez członków Samorządu,
-d) orzeczenia przez Radę niezdolności do pełnienia obowiązków delegata trwającej przez okres dłuższy niż 4 miesiące,
-e) rozwiązania Rady,
+a) pisemnej rezygnacji przekazanej Przewodniczącemu Samorządu, lub
+b) ustania jego członkostwa w Samorządzie, lub
+c) odwołania w drodze referendum przez członków Samorządu, lub
+d) orzeczenia przez Radę niezdolności do pełnienia obowiązków delegata trwającej przez okres dłuższy niż 4 miesiące, lub
+e) rozwiązania Rady, lub
 f) zakończenia kadencji Rady.
 
 2. W razie wygaśnięcia mandatu, mandat przejmuje następny kandydat z największą liczbą głosów uzyskanych w wyborach.
@@ -186,11 +186,12 @@ W zakresie pełnienia swego mandatu delegat do Rady zobowiązany jest brać czyn
 §16
 
 1. Posiedzenie Rady zwołuje Przewodniczący Samorządu:
-a) z własnej inicjatywy,
-b) na wniosek co najmniej połowy delegatów do Rady lub co najmniej 20% ogólnej liczby członków Samorządu,
+a) z własnej inicjatywy, lub
+b1) na wniosek co najmniej połowy delegatów do Rady, lub
+b2) na wniosek co najmniej 20% ogólnej liczby członków Samorządu, lub
 c) na pisemny wniosek Kierownika Studiów Doktoranckich lub Dyrektora Instytutu.
 
-2. W przypadkach określonych w ust. 1 lit. b) i c), Przewodniczący Samorządu jest zobowiązany zwołać posiedzenie Rady w ciągu 14 dni od dnia otrzymania żądania lub wniosku.
+2. W przypadkach określonych w ust. 1 lit. b1)-c), Przewodniczący Samorządu jest zobowiązany zwołać posiedzenie Rady w ciągu 14 dni od dnia otrzymania żądania lub wniosku.
 
 2a. Po upływie przynajmniej 60 dni od ostatniego posiedzenia Rady, posiedzenie może zostać zwołane przez Kierownika Studiów Doktoranckich.
 
@@ -219,10 +220,10 @@ c) na pisemny wniosek Kierownika Studiów Doktoranckich lub Dyrektora Instytutu.
 1. (uchylony)
 
 2. Posiedzenie Rady prowadzi:
-a) Przewodniczący Samorządu,
-b) delegat do Rady wskazany przez Przewodniczącego Samorządu - w przypadku nieobecności osoby wymienionej w lit. a),
-c) Wiceprzewodniczący Samorządu - w przypadku nieobecności osób wymienionych w lit. a)-b),
-d) delegat do Rady wskazany przez Wiceprzewodniczącego Samorządu - w przypadku nieobecności osób wymienionych w lit. a)-c),
+a) Przewodniczący Samorządu, lub
+b) delegat do Rady wskazany przez Przewodniczącego Samorządu - w przypadku nieobecności osoby wymienionej w lit. a), lub
+c) Wiceprzewodniczący Samorządu - w przypadku nieobecności osób wymienionych w lit. a)-b), lub
+d) delegat do Rady wskazany przez Wiceprzewodniczącego Samorządu - w przypadku nieobecności osób wymienionych w lit. a)-c), lub
 e) delegat do Rady wyznaczony przez Radę do pełnienia tej funkcji zwykłą większością głosów - w przypadku nieobecności osób wymienionych w lit. a)-d).
 
 3. Posiedzenie Rady protokołuje Sekretarz Rady. W przypadku nieobecności na posiedzeniu Sekretarza Rady, posiedzenie protokołuje osoba wyznaczona przez prowadzącego posiedzenie.
@@ -291,9 +292,9 @@ f) dysponowanie środkami finansowymi Samorządu,
 §21a
 
 1. Wiceprzewodniczący Samorządu wchodzi w prawa i obowiązki Przewodniczącego Samorządu w razie:
-a) upoważnienia przez Przewodniczącego Samorządu - w zakresie określonym w upoważnieniu,
-b) braku możliwości udziału Przewodniczącego Samorządu w zaplanowanych pracach Samorządu - w zakresie, w jakim udział Przewodniczącego Samorządu jest w tych pracach konieczny,
-c) braku możliwości skontaktowania się z Przewodniczącym Samorządu - w zakresie, w jakim niezwłoczne działanie Przewodniczącego Samorządu jest konieczne,
+a) upoważnienia przez Przewodniczącego Samorządu - w zakresie określonym w upoważnieniu, lub 
+b) braku możliwości udziału Przewodniczącego Samorządu w zaplanowanych pracach Samorządu - w zakresie, w jakim udział Przewodniczącego Samorządu jest w tych pracach konieczny, lub
+c) braku możliwości skontaktowania się z Przewodniczącym Samorządu - w zakresie, w jakim niezwłoczne działanie Przewodniczącego Samorządu jest konieczne, lub
 d) uzasadnionego podejrzenia uchylania się Przewodniczącego Samorządu od wypełnienia obowiązków określonych w Regulaminie - w zakresie, w jakim działanie Przewodniczącego Samorządu jest przez Regulamin wymagane.
 
 2. Wiceprzewodniczący Samorządu zobowiązany jest niezwłocznie powiadomić Przewodniczącego Samorządu o każdym zastosowaniu ust. 1.  Na żądanie Przewodniczącego Samorządu, Wiceprzewodniczący Samorządu zobowiązany jest do złożenia szczegółowego raportu.
@@ -324,10 +325,10 @@ d) uzasadnionego podejrzenia uchylania się Przewodniczącego Samorządu od wype
 §24
 
 1. Przewodniczący Samorządu pełni swoją funkcję do czasu:
-a) wyboru nowego Przewodniczącego Samorządu przez nową Radę,
-b) utraty statusu delegata do Rady w sposób inny niż §12 ust. 1 lit. d)-f),
-c) odwołania zgodnie z §23,
-d) złożenia pisemnej rezygnacji,
+a) wyboru nowego Przewodniczącego Samorządu przez nową Radę, lub
+b) utraty statusu delegata do Rady w sposób inny niż §12 ust. 1 lit. d)-f), lub
+c) odwołania zgodnie z §23, lub
+d) złożenia pisemnej rezygnacji, lub
 e) orzeczenia przez Radę trwałej niezdolności do pełnienia obowiązków Przewodniczącego Samorządu.
 
 
@@ -406,11 +407,12 @@ Przedstawiciele Doktorantów w Radzie Naukowej Instytutu.
 
 6. Mandat Przedstawiciela doktorantów w Radzie Naukowej Instytutu wygasa na skutek:
 a) (uchylony),
-b) złożenia rezygnacji Przewodniczącemu Samorządu,
-c) ustania jego członkostwa w Samorządzie,
-d) nieuczestniczenia w pracach Rady Naukowej Instytutu przez okres dłuższy niż 180 dni,
-e) skazania prawomocnym wyrokiem za umyślne przestępstwo lub przestępstwo skarbowe,
-f) odwołania na zasadach określonych w §23 ust. 1,
+b) złożenia rezygnacji Przewodniczącemu Samorządu, lub
+c) ustania jego członkostwa w Samorządzie, lub
+d) nieuczestniczenia w pracach Rady Naukowej Instytutu przez okres dłuższy niż 180 dni, lub
+e1) skazania prawomocnym wyrokiem za umyślne przestępstwo, lub
+e2) skazania prawomocnym wyrokiem za umyślne przestępstwo skarbowe, lub
+f) odwołania na zasadach określonych w §23 ust. 1, lub
 g) końca roku kalendarzowego, w którym został on wybrany.
 
 7. W przypadku wygaśnięcia mandatu Przedstawiciela Doktorantów w Radzie Naukowej Instytutu Rada Samorządu niezwłocznie podejmuje prace nad uchwałą określoną w ust. 3.  §16 ust. 7 stosuje się jedynie w przypadku uzasadnionej konieczności niezwłocznego podjęcia uchwały.
