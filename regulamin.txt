@@ -136,9 +136,9 @@ b) termin wskazany w ust. 8 zamienia się na termin 59 dni od rozpoczęcia kaden
 
 17. W razie braku Rady, czynności przewidziane w ust. 1-2 może przeprowadzić:
 a) Przewodniczący Samorządu,
-b) Wiceprzewodniczący Samorządu - po bezskutecznej próbie wezwania do tego osoby wymienionej w punkcie a,
-c) Kierownik Studiów Doktoranckich - po bezskutecznej próbie wezwania do tego osób wymienionych w punktach a-b,
-d) co najmniej 1/5 członków Samorządu - po bezskutecznej próbie wezwania do tego osób wymienionych w punktach a-c.
+b) Wiceprzewodniczący Samorządu - po bezskutecznej próbie wezwania do tego osoby wymienionej w lit. a),
+c) Kierownik Studiów Doktoranckich - po bezskutecznej próbie wezwania do tego osób wymienionych w lit. a)-b),
+d) co najmniej 1/5 członków Samorządu - po bezskutecznej próbie wezwania do tego osób wymienionych w lit. a)-c).
 
 
 §12
@@ -153,7 +153,7 @@ f) zakończenia kadencji Rady.
 
 2. W razie wygaśnięcia mandatu, mandat przejmuje następny kandydat z największą liczbą głosów uzyskanych w wyborach.
 
-3. Jeśli nie ma osoby wskazanej w punkcie 2, jednak nie później niż na 6 miesięcy przed upływem kadencji Rady, rozpoczyna się procedurę wyborów uzupełniających w obrębie odpowiedniego zakładu w trybie określonym w §11 ust. 1-12.
+3. Jeśli nie ma osoby wskazanej w ust. 2, jednak nie później niż na 6 miesięcy przed upływem kadencji Rady, rozpoczyna się procedurę wyborów uzupełniających w obrębie odpowiedniego zakładu w trybie określonym w §11 ust. 1-12.
 
 4. Podczas wyborów, o których mowa w ust. 3, obsadza się również pozostałe wakujące mandaty delegatów do Rady z odpowiedniego zakładu.
 
@@ -220,9 +220,9 @@ c) na pisemny wniosek Kierownika Studiów Doktoranckich lub Dyrektora Instytutu.
 
 2. Posiedzenie Rady prowadzi:
 a) Przewodniczący Samorządu,
-b) delegat do Rady wskazany przez Przewodniczącego Samorządu - w przypadku nieobecności osoby wymienionej w poprzedzającym punkcie,
-c) Wiceprzewodniczący Samorządu - w przypadku nieobecności osób wymienionych w poprzedzających punktach,
-d) delegat do Rady wskazany przez Wiceprzewodniczącego Samorządu - w przypadku nieobecności osób wymienionych w poprzedzających punktach,
+b) delegat do Rady wskazany przez Przewodniczącego Samorządu - w przypadku nieobecności osoby wymienionej w lit. a),
+c) Wiceprzewodniczący Samorządu - w przypadku nieobecności osób wymienionych w lit. a)-b),
+d) delegat do Rady wskazany przez Wiceprzewodniczącego Samorządu - w przypadku nieobecności osób wymienionych w lit. a)-c),
 e) delegat do Rady wyznaczony przez Radę do pełnienia tej funkcji zwykłą większością głosów.
 
 3. Posiedzenie Rady protokołuje Sekretarz Rady. W przypadku nieobecności na posiedzeniu Sekretarza Rady, posiedzenie protokołuje osoba wyznaczona przez prowadzącego posiedzenie.
