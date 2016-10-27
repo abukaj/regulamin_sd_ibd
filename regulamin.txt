@@ -147,7 +147,9 @@ d) co najmniej 1/5 członków Samorządu - po bezskutecznej próbie wezwania do 
 a) pisemnej rezygnacji przekazanej Przewodniczącemu Samorządu,
 b) ustania jego członkostwa w Samorządzie,
 c) odwołania w drodze referendum przez członków Samorządu,
-d) orzeczenia przez Radę niezdolności do pełnienia obowiązków delegata trwającej przez okres dłuższy niż 4 miesiące.
+d) orzeczenia przez Radę niezdolności do pełnienia obowiązków delegata trwającej przez okres dłuższy niż 4 miesiące,
+e) rozwiązania Rady,
+f) zakończenia kadencji Rady.
 
 2. W razie wygaśnięcia mandatu, mandat przejmuje następny kandydat z największą liczbą głosów uzyskanych w wyborach.
 
@@ -323,7 +325,7 @@ d) uzasadnionego podejrzenia uchylania się Przewodniczącego Samorządu od wype
 
 1. Przewodniczący Samorządu pełni swoją funkcję do czasu:
 a) wyboru nowego Przewodniczącego Samorządu przez nową Radę,
-b) utraty statusu delegata do Rady w sposób inny niż koniec kadencji Rady,
+b) utraty statusu delegata do Rady w sposób inny niż §12 ust. 1 lit. d)-f),
 c) odwołania zgodnie z §23,
 d) złożenia pisemnej rezygnacji,
 e) orzeczenia przez Radę trwałej niezdolności do pełnienia obowiązków Przewodniczącego Samorządu.
