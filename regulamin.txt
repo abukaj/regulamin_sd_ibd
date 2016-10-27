@@ -119,7 +119,7 @@ Rada Samorządu Doktorantów
 
 11. Wyboru delegatów do Rady dokonuje się w głosowaniu tajnym na poszczególnych kandydatów. Każdy głosujący może oddać głos na jednego lub więcej kandydatów – nie więcej jednak niż wynosi liczba mandatów w danym zakładzie, albo wstrzymać się od głosu.
 
-12. Wyniki wszystkich głosowań ogłasza Komisja Wyborcza w terminie nie przekraczającym 2 dni roboczych od zakończenia głosowań we wszystkich zakładach. Wyniki wyborów zostają podane do publicznej wiadomości wszystkich członków samorządu, Kierownika Studium Doktoranckiego oraz do Dyrektora Instytutu.
+12. Wyniki wszystkich głosowań ogłasza Komisja Wyborcza w terminie nie przekraczającym 2 dni roboczych od zakończenia głosowań we wszystkich zakładach. Wyniki wyborów zostają podane do publicznej wiadomości wszystkich członków samorządu, Kierownika Studiów Doktoranckich oraz do Dyrektora Instytutu.
 
 13. Za wybranych do Rady Samorządu uważa się tych kandydatów, którzy otrzymali najwięcej oddanych głosów. Jeżeli dwóch lub więcej kandydatów otrzymało równą ilość głosów uprawniającą do uzyskania mandatu i kandydatów tych jest więcej niż mandatów do uzyskania, o pierwszeństwie rozstrzyga losowanie przeprowadzane przez 3 członków Komisji Wyborczej, z możliwością udziału zainteresowanych kandydatów. Przebieg losowania uwzględnia się w protokole wyborczym.
 
@@ -181,7 +181,7 @@ W zakresie pełnienia swego mandatu delegat do Rady zobowiązany jest brać czyn
 1. Posiedzenie Rady zwołuje Przewodniczący Samorządu:
 a) z własnej inicjatywy,
 b) na wniosek co najmniej połowy delegatów do Rady lub co najmniej 20% ogólnej liczby członków Samorządu,
-c) na pisemny wniosek Kierownika Studium Doktoranckiego lub Dyrektora Instytutu.
+c) na pisemny wniosek Kierownika Studiów Doktoranckich lub Dyrektora Instytutu.
 
 2. W przypadkach określonych w ust. 1 lit. b) i c), Przewodniczący Samorządu jest zobowiązany zwołać posiedzenie Rady w ciągu 14 dni od dnia otrzymania żądania lub wniosku.
 
@@ -257,7 +257,7 @@ Przewodniczący Samorządu
 1. Do obowiązków Przewodniczącego Samorządu należy w szczególności:
 a) kierowanie pracami Rady,
 b) reprezentowanie Samorządu, w szczególności wobec władz Instytutu i innych podmiotów społeczności Instytutu, a także wobec władz samorządowych i państwowych organów administracji oraz podmiotów gospodarczych, 
-c) przyjmowanie skarg doktorantów dotyczących konfliktów między opiekunami naukowymi a doktorantami i przedstawienie ich Kierownikowi Studium Doktoranckiego lub, w przypadku jego nieobecności, Przewodniczącemu Rady Naukowej,
+c) przyjmowanie skarg doktorantów dotyczących konfliktów między opiekunami naukowymi a doktorantami i przedstawienie ich Kierownikowi Studiów Doktoranckich lub, w przypadku jego nieobecności, Przewodniczącemu Rady Naukowej,
 d) czuwanie nad przestrzeganiem przez organy Samorządu postanowień niniejszego Regulaminu i innych przepisów prawa,
 e) wyznaczanie osób do realizacji uchwał Rady oraz ich nadzorowanie,
 f) dysponowanie środkami finansowymi Samorządu,
@@ -396,7 +396,7 @@ Postanowienia końcowe
 
 1. Regulamin może być zmieniony uchwałą Rady podjętą w głosowaniu, większością co najmniej 2/3 głosów wszystkich delegatów do Rady. W razie wątpliwości wymaganą liczbę głosów zaokrągla się w górę.
 
-2. O każdej zmianie w Regulaminie Przewodniczący Samorządu zobowiązany jest poinformować Kierownika Studium oraz Dyrektora Instytutu.
+2. O każdej zmianie w Regulaminie Przewodniczący Samorządu zobowiązany jest poinformować Kierownika Studiów Doktoranckich oraz Dyrektora Instytutu.
 
 
 §35
