@@ -147,7 +147,7 @@ d) co najmniej 1/5 członków Samorządu - po bezskutecznej próbie wezwania do 
 a) pisemnej rezygnacji przekazanej Przewodniczącemu Samorządu,
 b) ustania jego członkostwa w Samorządzie,
 c) odwołania w drodze referendum przez członków Samorządu,
-d) niezdolności do pełnienia przez niego mandatu przez okres dłuższy niż 4 miesiące, o niezdolności orzeka Rada zwykłą większością głosów.
+d) orzeczenia przez Radę niezdolności do pełnienia obowiązków delegata trwającej przez okres dłuższy niż 4 miesiące.
 
 2. W razie wygaśnięcia mandatu, mandat przejmuje następny kandydat z największą liczbą głosów uzyskanych w wyborach.
 
@@ -246,9 +246,11 @@ b) opublikowany na stronie WWW Samorządu.
 
 3. W sprawach personalnych Rada podejmuje uchwały w głosowaniach tajnych.
 
-4. Sposób głosowania określa prowadzący posiedzenie.
+4. O niezdolności do pełnienia obowiązków Rada orzeka większością 2/3 głosów ogólnej liczby delegatów do Rady.
 
-5. Wyniki głosowania protokołuje się, załączając do protokołu treść głosowanych uchwał.
+5. Sposób głosowania określa prowadzący posiedzenie.
+
+6. Wyniki głosowania protokołuje się, załączając do protokołu treść głosowanych uchwał.
 
 
 §20
@@ -324,7 +326,7 @@ a) wyboru nowego Przewodniczącego Samorządu przez nową Radę,
 b) utraty statusu delegata do Rady w sposób inny niż koniec kadencji Rady,
 c) odwołania zgodnie z §23,
 d) złożenia pisemnej rezygnacji,
-e) orzeczenia przez Radę trwałej niezdolności do pełnienia obowiązków.
+e) orzeczenia przez Radę trwałej niezdolności do pełnienia obowiązków Przewodniczącego Samorządu.
 
 
 §25
