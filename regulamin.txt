@@ -307,7 +307,9 @@ d) uzasadnionego podejrzenia uchylania się Przewodniczącego Samorządu od wype
 
 4. Wybrany zostaje kandydat, który otrzymał najwięcej głosów, nie mniej jednak niż połowę głosów ważnych. Jeżeli żaden z kandydatów nie otrzymał w pierwszej turze wymaganej większości głosów, przeprowadza się drugą turę, w której biorą udział kandydaci, którzy otrzymali kolejno pierwszą i drugą największą liczbę głosów. W przypadku niedokonania wyboru w drugiej turze, procedurę wyborczą wyboru Przewodniczącego Samorządu powtarza się do skutku.
 
-5. Wybory Wiceprzewodniczącego Samorządu i Sekretarza Rady są dokonywane analogicznie z ustępami 1-4.
+4a. Kadencja Przewodniczącego Samorządu rozpoczyna się z chwilą wyboru.
+
+5. Wybory Wiceprzewodniczącego Samorządu i Sekretarza Rady są dokonywane analogicznie z ustępami 1-4a.
 
 
 §23
