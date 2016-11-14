@@ -61,7 +61,7 @@ g) może prowadzić działalność socjalno-bytową, społeczną, kulturową, o�
 §7a
 
 1. Ilekroć mowa o podaniu informacji do publicznej wiadomości przez Organy Samorządu, należy przez to rozumieć jednoczesne:
-a) rozesłanie informacji pocztą elektroniczną poprzez listę dyskusyjną doktoranci@nencki.gov.pl,
+a) rozesłanie informacji pocztą elektroniczną z adresu sd@nencki.gov.pl poprzez listę dyskusyjną doktoranci@nencki.gov.pl,
 b) umieszczenie informacji na stronie WWW Samorządu,
 c) umieszczenie informacji na tablicy ogłoszeń Samorządu,
 d) umieszczenie informacji na wszystkich portalach społecznościowych oficjalnie wykorzystywanych przez Samorząd.
