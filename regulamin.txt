@@ -11,7 +11,7 @@ Samorząd Doktorantów Instytutu Biologii Doświadczalnej im. M. Nenckiego PAN, 
 
 § 2
 
-Samorząd działa na podstawie Statutu Polskiej Akademii Nauk, Statutu Instytutui Biologii Doświadczalnej im. M. Nenckiego Polskiej Akademii Nauk, Regulaminu Samorządu Doktorantów Polskiej Akademii Nauk i niniejszego Regulaminu Samorządu Doktorantów Instytutu Biologii Doświadczalnej im. M. Nenckiego PAN, zwanego dalej Regulaminem.  Działalność Samorządu opiera się na współpracy z władzami Instytutu.
+Samorząd działa na podstawie Statutu Polskiej Akademii Nauk, Statutu Instytutu Biologii Doświadczalnej im. M. Nenckiego Polskiej Akademii Nauk, Regulaminu Samorządu Doktorantów Polskiej Akademii Nauk i niniejszego Regulaminu Samorządu Doktorantów Instytutu Biologii Doświadczalnej im. M. Nenckiego PAN, zwanego dalej Regulaminem.  Działalność Samorządu opiera się na współpracy z władzami Instytutu.
 
 
 § 3
@@ -68,7 +68,7 @@ d) umieszczenie informacji na wszystkich portalach społecznościowych oficjalni
 
 2. Każda informacja podana do publicznej wiadomości powinna mieć polską i angielską wersję językową, przy czym polska wersja językowa jest traktowana jako podstawa wykładni.
 
-3. Każda informacja podana do publicznej wiadomości powinna być podpisana imieniem, nazwiskiem i funkcją pełnioną w Samorządznie.
+3. Każda informacja podana do publicznej wiadomości powinna być podpisana imieniem, nazwiskiem i funkcją pełnioną w Samorządzie.
 
 
 
@@ -331,7 +331,7 @@ e) uzasadnionego podejrzenia uchylania się Przewodniczącego Samorządu od wype
 
 § 23
 
-1. Rada może odwołać Przewodniczącego Samorządu, Wiceprzewodniczącego Samorządu lub Sekretarza Rady w głosowaniu większością 2/3 głosów ogólnej liczby delegatów do Rady.  Wymaganą liczbę głosów zaokrągla się do najbliższej niewiększej liczby całkowitej.
+1. Rada może odwołać Przewodniczącego Samorządu, Wiceprzewodniczącego Samorządu lub Sekretarza Rady w głosowaniu większością 2/3 głosów ogólnej liczby delegatów do Rady.  Wymaganą liczbę głosów zaokrągla się do najbliższej nie większej liczby całkowitej.
 
 
 § 24
@@ -406,9 +406,9 @@ Sąd Koleżeński
 
 § 32
 
-1.Sąd Koleżeński orzeka w sprawach dyscyplinarnych doktorantów Instytutu.
+1. Sąd Koleżeński orzeka w sprawach dyscyplinarnych doktorantów Instytutu.
 
-2.Szczegółowy tryb postępowania przed sądem określa Regulamin Sądu Koleżeńskiego, który stanowi załącznik nr 1 do niniejszego Regulaminu
+2. Szczegółowy tryb postępowania przed sądem określa Regulamin Sądu Koleżeńskiego, który stanowi załącznik nr 1 do niniejszego Regulaminu
 
 
 
@@ -446,7 +446,7 @@ Postanowienia końcowe
 
 § 34
 
-1. Regulamin może być zmieniony uchwałą Rady podjętą w głosowaniu, większością co najmniej 2/3 głosów wszystkich delegatów do Rady.  Wymaganą liczbę głosów zaokrągla się do najbliższej niemniejszej liczby całkowitej.
+1. Regulamin może być zmieniony uchwałą Rady podjętą w głosowaniu, większością co najmniej 2/3 głosów wszystkich delegatów do Rady.  Wymaganą liczbę głosów zaokrągla się do najbliższej nie mniejszej liczby całkowitej.
 
 2. O każdej zmianie w Regulaminie Przewodniczący Samorządu zobowiązany jest poinformować Kierownika Studiów Doktoranckich oraz Dyrektora Instytutu.
 
