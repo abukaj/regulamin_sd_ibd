@@ -57,14 +57,14 @@ b) pracownika IBD PAN.
 
 1. Rozprawa przed sądem koleżeńskim jest jawna.
 
-2. Sąd Koleżeński wyłącza jawność postępowania w całości lub w części, jeśli jawność mogłaby obrażać dobre obyczaje albo jeśli wymaga tego interes obwinionego, Instytutu lub osób trzecich. Wyłączenie jawności nie obejmuje ogłoszenia orzeczenia.
+2. Sąd Koleżeński wyłącza jawność postępowania w całości lub w części, jeśli jawność mogłaby obrażać dobre obyczaje albo jeśli wymaga tego interes obwinionego, Instytutu lub osób trzecich.  Wyłączenie jawności nie obejmuje ogłoszenia orzeczenia.
 
 
 § 7
 
-1. Funkcje oskarżyciela w postępowaniu przed Sądem Koleżeńskim pełni Doktorancki Rzecznik Dyscyplinarny, zwany dalej „Rzecznikiem”. Prowadzi on postępowanie wyjaśniające.
+1. Funkcje oskarżyciela w postępowaniu przed Sądem Koleżeńskim pełni Doktorancki Rzecznik Dyscyplinarny, zwany dalej „Rzecznikiem”.  Prowadzi on postępowanie wyjaśniające.
 
-2. Rzecznika powołuje i odwołuje Rada spośród Samorządu. Do każdej sprawy powoływany jest osobny Rzecznik. Można być jednocześnie Rzecznikiem w więcej niż jednej sprawie.
+2. Rzecznika powołuje i odwołuje Rada spośród Samorządu.  Do każdej sprawy powoływany jest osobny Rzecznik.  Można być jednocześnie Rzecznikiem w więcej niż jednej sprawie.
 
 
 § 8
@@ -99,7 +99,7 @@ POSTĘPOWANIE PRZED SĄDEM KOLEŻEŃSKIM
 
 2. Odpis postanowienia doręcza się Dyrektorowi Instytutu oraz obwinionemu.
 
-3. Postępowanie wyjaśniające nie może trwać dłużej niż 9 tygodni. Przekroczenie tego terminu powoduje umorzenie postępowania z mocy prawa.
+3. Postępowanie wyjaśniające nie może trwać dłużej niż 9 tygodni.  Przekroczenie tego terminu powoduje umorzenie postępowania z mocy prawa.
 
 4. O umorzeniu postępowania na skutek przekroczenia terminu, o którym mowa w ustępie poprzedzającym, Rzecznik zawiadamia podmioty, o których mowa w ustępie 2.
 
@@ -110,7 +110,7 @@ POSTĘPOWANIE PRZED SĄDEM KOLEŻEŃSKIM
 
 2. Rzecznik jest zobowiązany do sporządzenia protokołu z postępowania wyjaśniającego.
 
-3. Obwinionemu należy umożliwić w toku postępowania wyjaśniającego złożenie wszelkich wyjaśnień oraz dowodów, które jego zdaniem mogą mieć znaczenie dla sprawy. Po zakończeniu postępowania należy obwinionego i jego obrońcę zapoznać z treścią zebranych dowodów, o których mowa w § 12 ust. 1, informując o prawie zgłoszenia w terminie 3 dni roboczych wniosku o uzupełnienie materiału dowodowego.
+3. Obwinionemu należy umożliwić w toku postępowania wyjaśniającego złożenie wszelkich wyjaśnień oraz dowodów, które jego zdaniem mogą mieć znaczenie dla sprawy.  Po zakończeniu postępowania należy obwinionego i jego obrońcę zapoznać z treścią zebranych dowodów, o których mowa w § 12 ust. 1, informując o prawie zgłoszenia w terminie 3 dni roboczych wniosku o uzupełnienie materiału dowodowego.
 
 4. Obwiniony może odmówić złożenia wyjaśnień, o czym należy go poinformować.
 
@@ -153,7 +153,7 @@ b) wzywa na rozprawę obwinionego, Rzecznika oraz inne osoby, których udział u
 
 § 16
 
-1. Członek Składu Orzekającego ulega wyłączeniu, jeżeli istnieje okoliczność, która może wzbudzić wątpliwość co do jego bezstronności w danej sprawie. Wniosek o wyłączenie rozpoznaje Skład Orzekający na posiedzeniu niejawnym.
+1. Członek Składu Orzekającego ulega wyłączeniu, jeżeli istnieje okoliczność, która może wzbudzić wątpliwość co do jego bezstronności w danej sprawie.  Wniosek o wyłączenie rozpoznaje Skład Orzekający na posiedzeniu niejawnym.
 
 2. Wniosek, o którym mowa w ust. 1, powinien być zgłoszony przez stronę lub członka Składu Orzekającego nie później niż w dniu roboczym poprzedzającym dzień rozpoczęcia rozprawy.
 
@@ -167,7 +167,7 @@ b) wzywa na rozprawę obwinionego, Rzecznika oraz inne osoby, których udział u
 
 1. Nieusprawiedliwione niestawiennictwo na rozprawę obwinionego, któremu wezwanie doręczono prawidłowo i który złożył już wyjaśnienia na rozprawie, nie stanowi przeszkody do rozpoznania sprawy.
 
-2. W razie uznania niestawiennictwa obwinionego za usprawiedliwione Skład Orzekający odracza rozprawę i wyznacza jej nowy termin. Rozprawa może ulec odroczeniu na okres do 30 dni. Jeśli jednak w tym terminie stawienie się obwinionego z przyczyn od niego niezależnych nie jest możliwe, termin ten może zostać przedłużony do czasu ustania przeszkód.
+2. W razie uznania niestawiennictwa obwinionego za usprawiedliwione Skład Orzekający odracza rozprawę i wyznacza jej nowy termin.  Rozprawa może ulec odroczeniu na okres do 30 dni.  Jeśli jednak w tym terminie stawienie się obwinionego z przyczyn od niego niezależnych nie jest możliwe, termin ten może zostać przedłużony do czasu ustania przeszkód.
 
 3. Wezwanie doręcza się osobiście lub listem poleconym za potwierdzeniem odbioru przesłanym na adres podany przez doktoranta w dziekanacie.
 
@@ -176,9 +176,9 @@ b) wzywa na rozprawę obwinionego, Rzecznika oraz inne osoby, których udział u
 
 1. Rozprawą kieruje Przewodniczący Składu Orzekającego.
 
-2. Rozprawa rozpoczyna się od sprawdzenia obecności stron i innych osób wezwanych na rozprawę, po czym Przewodniczący Składu Orzekającego zarządza opuszczenie sali przez świadków oraz odczytuje wniosek o wszczęcie postępowania i o ukaranie wraz z uzasadnieniem. Następnie Przewodniczący Składu Orzekającego zapytuje obwinionego czy przyznaje się do popełnienia zarzucanego mu czynu oraz czy i jakie zamierza złożyć wyjaśnienia. W razie potrzeby członkowie Składu mogą zadać kolejne pytania obwinionemu.
+2. Rozprawa rozpoczyna się od sprawdzenia obecności stron i innych osób wezwanych na rozprawę, po czym Przewodniczący Składu Orzekającego zarządza opuszczenie sali przez świadków oraz odczytuje wniosek o wszczęcie postępowania i o ukaranie wraz z uzasadnieniem.  Następnie Przewodniczący Składu Orzekającego zapytuje obwinionego czy przyznaje się do popełnienia zarzucanego mu czynu oraz czy i jakie zamierza złożyć wyjaśnienia.  W razie potrzeby członkowie Składu mogą zadać kolejne pytania obwinionemu.
 
-3. Po złożeniu wyjaśnień przez obwinionego Przewodniczący Składu Orzekającego zarządza postępowanie dowodowe: przesłuchuje świadków oraz przedstawia inne dowody zebrane w postępowaniu wyjaśniającym. Jeżeli żadna ze stron nie wyrazi sprzeciwu, a przeprowadzenie bezpośredniego dowodu nie jest niezbędne, Przewodniczący Składu Orzekającego może odczytać zeznania świadków oraz przedstawić inne dowody zebrane w postępowaniu wyjaśniającym.
+3. Po złożeniu wyjaśnień przez obwinionego Przewodniczący Składu Orzekającego zarządza postępowanie dowodowe: przesłuchuje świadków oraz przedstawia inne dowody zebrane w postępowaniu wyjaśniającym.  Jeżeli żadna ze stron nie wyrazi sprzeciwu, a przeprowadzenie bezpośredniego dowodu nie jest niezbędne, Przewodniczący Składu Orzekającego może odczytać zeznania świadków oraz przedstawić inne dowody zebrane w postępowaniu wyjaśniającym.
 
 4. Obwiniony, jego obrońca i Rzecznik maja prawo wypowiadać się co do każdego dowodu.
 
@@ -202,7 +202,7 @@ b) wzywa na rozprawę obwinionego, Rzecznika oraz inne osoby, których udział u
 
 2. Narada i głosowanie nad orzeczeniem są tajne, oprócz członków Składu Orzekającego może być obecny jedynie Protokolant, chyba, że Przewodniczący Składu Orzekającego uzna jego obecność za zbędną.
 
-3. Narada i głosowanie odbywają się osobno, co do winy i co do kary. Przewodniczący Składu Orzekającego głosuje ostatni.
+3. Narada i głosowanie odbywają się osobno, co do winy i co do kary.  Przewodniczący Składu Orzekającego głosuje ostatni.
 
 
 § 22
@@ -249,13 +249,13 @@ f) uzasadnienie zawierające wyjaśnienie podstawy faktycznej i wskazanie podsta
 § 26
 
 1. Orzeczenie staje się prawomocne po 14 dniach od daty doręczenia stronom, jeżeli w tym okresie nie zostanie wniesione odwołanie do Sądu Koleżeńskiego drugiej instancji.
-2. Orzeczenie może być zaskarżone w całości lub w części. Odwołujący może skarżyć jedynie rozstrzygnięcia lub ustalenia szkodzące jego interesom. Powyższe ograniczenie nie dotyczy Rzecznika Dyscyplinarnego.
+2. Orzeczenie może być zaskarżone w całości lub w części.  Odwołujący może skarżyć jedynie rozstrzygnięcia lub ustalenia szkodzące jego interesom.  Powyższe ograniczenie nie dotyczy Rzecznika Dyscyplinarnego.
 3. Złożenie odwołania wstrzymuje wykonanie orzeczenia.
 
 
 § 27
 
-1. Przewodniczący Odwoławczego Składu Orzekającego wyznacza termin rozprawy odwoławczej i zarządza doręczenie odpisu odwołania stronom. Rozprawa odwoławcza powinna odbyć się w terminie 14 dni od dnia wpływu odwołania do Prezesa Sądu Koleżeńskiego. Przepisy § 18 ust. 2, § 19 –22 oraz § 25 stosuje się odpowiednio, przy czym zakres postępowania dowodowego może zostać ograniczony przez Odwoławczy Skład Orzekający.
+1. Przewodniczący Odwoławczego Składu Orzekającego wyznacza termin rozprawy odwoławczej i zarządza doręczenie odpisu odwołania stronom.  Rozprawa odwoławcza powinna odbyć się w terminie 14 dni od dnia wpływu odwołania do Prezesa Sądu Koleżeńskiego.  Przepisy § 18 ust. 2, § 19 –22 oraz § 25 stosuje się odpowiednio, przy czym zakres postępowania dowodowego może zostać ograniczony przez Odwoławczy Skład Orzekający.
 
 
 § 28
