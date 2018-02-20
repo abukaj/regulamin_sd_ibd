@@ -174,7 +174,7 @@ b) z inicjatywy Rady.
 
 2. Wynik referendum jest wiążący, jeżeli w referendum udział wzięło co najmniej 50% uprawnionych do głosowania.
 
-3. Do głosowania w referendum uprawnieni są wszyscy, którzy byliby uprawnieni do głosowania na tego delegata, gdyby wybory delegatów do Rady odbywały się w terminie referendum. 
+3. Do głosowania w referendum uprawnieni są wszyscy, którzy byliby uprawnieni do głosowania na tego delegata, gdyby wybory delegatów do Rady odbywały się w terminie referendum.
 
 
 § 14
@@ -291,7 +291,7 @@ Przewodniczący Samorządu, Wiceprzewodniczący Samorządu, Sekretarz Rady
 
 1. Do obowiązków Przewodniczącego Samorządu należy w szczególności:
 a) kierowanie pracami Rady,
-b) reprezentowanie Samorządu, w szczególności wobec władz Instytutu i innych podmiotów społeczności Instytutu, a także wobec władz samorządowych i państwowych organów administracji oraz podmiotów gospodarczych, 
+b) reprezentowanie Samorządu, w szczególności wobec władz Instytutu i innych podmiotów społeczności Instytutu, a także wobec władz samorządowych i państwowych organów administracji oraz podmiotów gospodarczych,
 c) przyjmowanie skarg doktorantów dotyczących konfliktów między opiekunami naukowymi a doktorantami i przedstawienie ich Kierownikowi Studiów Doktoranckich lub, w przypadku jego nieobecności, Przewodniczącemu Rady Naukowej,
 d) czuwanie nad przestrzeganiem przez organy Samorządu postanowień niniejszego Regulaminu i innych przepisów prawa,
 e) wyznaczanie osób do realizacji uchwał Rady oraz ich nadzorowanie,
@@ -304,7 +304,7 @@ f) dysponowanie środkami finansowymi Samorządu,
 
 1. Wiceprzewodniczący Samorządu wchodzi w prawa i obowiązki Przewodniczącego Samorządu w razie:
 a) wakatu na funkcji Przewodniczącego Samorządu, lub
-b) upoważnienia przez Przewodniczącego Samorządu - w zakresie określonym w upoważnieniu, lub 
+b) upoważnienia przez Przewodniczącego Samorządu - w zakresie określonym w upoważnieniu, lub
 c) braku możliwości udziału Przewodniczącego Samorządu w zaplanowanych pracach Samorządu - w zakresie, w jakim udział Przewodniczącego Samorządu jest w tych pracach konieczny, lub
 d) braku możliwości skontaktowania się z Przewodniczącym Samorządu - w zakresie, w jakim niezwłoczne działanie Przewodniczącego Samorządu jest konieczne, lub
 e) uzasadnionego podejrzenia uchylania się Przewodniczącego Samorządu od wypełnienia obowiązków określonych w Regulaminie - w zakresie, w jakim działanie Przewodniczącego Samorządu jest przez Regulamin wymagane.
@@ -408,7 +408,7 @@ Sąd Koleżeński
 
 1. Sąd Koleżeński orzeka w sprawach dyscyplinarnych doktorantów Instytutu.
 
-2. Szczegółowy tryb postępowania przed sądem określa Regulamin Sądu Koleżeńskiego, który stanowi załącznik nr 1 do niniejszego Regulaminu
+2. Szczegółowy tryb postępowania przed sądem określa Regulamin Sądu Koleżeńskiego, który stanowi załącznik nr 1 do niniejszego Regulaminu.
 
 
 
