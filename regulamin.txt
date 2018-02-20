@@ -60,8 +60,8 @@ g) może prowadzić działalność socjalno-bytową, społeczną, kulturową, o�
 
 § 7a
 
-1. Ilekroć mowa o podaniu informacji do publicznej wiadomości przez Organy Samorządu, należy przez to rozumieć jednoczesne:
-a) rozesłanie informacji pocztą elektroniczną z adresu sd@nencki.gov.pl poprzez listę dyskusyjną doktoranci@nencki.gov.pl,
+1. Ilekroć mowa o podaniu informacji do publicznej wiadomości przez Organy Samorządu, należy przez to rozumieć:
+a) rozesłanie informacji pocztą elektroniczną z adresu sd@nencki.gov.pl poprzez listę dyskusyjną doktoranci@nencki.gov.pl i/lub
 b) umieszczenie informacji na stronie WWW Samorządu,
 c) umieszczenie informacji na tablicy ogłoszeń Samorządu,
 d) umieszczenie informacji na wszystkich portalach społecznościowych oficjalnie wykorzystywanych przez Samorząd.
@@ -84,7 +84,7 @@ Rada Samorządu Doktorantów
 
 1. W skład Rady wchodzą członkowie Samorządu - delegaci poszczególnych zakładów działających w Instytucie.
 
-2. Każdemu zakładowi przysługuje liczba mandatów obliczona przez podział liczby podlegających mu członków Samorządu przez 10 (dziesięć), pomniejszenie wyniku o 0,05 (pięć setnych) i zaokrąglenie do najbliższej liczby całkowitej, jednak nie mniej niż 1 (jeden) mandat i nie więcej niż 3 (trzy) mandaty.
+2. Każdemu zakładowi przysługuje liczba mandatów obliczona przez podział liczby podlegających mu członków Samorządu przez 10 (dziesięć) i zaokrąglenie do najbliższej liczby całkowitej, jednak nie mniej niż 1 (jeden) mandat.
 
 3. (uchylony)
 
@@ -129,7 +129,7 @@ d) co najmniej 14-dniowy termin zgłaszania kandydatów.
 
 10. Każdy posiadający czynne prawo wyborcze ma prawo zgłosić swoją kandydaturę Komisji Wyborczej w trybie ogłoszonym zgodnie z ust. 4.
 
-11. Wyboru delegatów do Rady dokonuje się w głosowaniu tajnym na poszczególnych kandydatów.  Każdy głosujący może oddać głos na jednego lub więcej kandydatów – nie więcej jednak niż wynosi liczba mandatów w danym zakładzie, albo wstrzymać się od głosu.
+11. Wyboru delegatów do Rady dokonuje się w głosowaniu tajnym na poszczególnych kandydatów z Zakładu głosującego, za okazaniem legitymacji.  Każdy głosujący może oddać głos na jednego lub więcej kandydatów – nie więcej jednak niż wynosi liczba mandatów w danym zakładzie, albo wstrzymać się od głosu.
 
 12. Wyniki wszystkich głosowań ogłasza Komisja Wyborcza w terminie nie przekraczającym 2 dni roboczych od zakończenia głosowań we wszystkich zakładach.  Wyniki wyborów zostają podane do publicznej wiadomości wszystkich członków samorządu, Kierownika Studiów Doktoranckich oraz do Dyrektora Instytutu.
 
@@ -139,7 +139,8 @@ d) co najmniej 14-dniowy termin zgłaszania kandydatów.
 
 14a. Do wyborów uzupełniających stosuje się odpowiednio przepisy ust. 1-13, przy czym:
 a) termin wskazany w ust. 2 zamienia się na termin 15 dni od rozpoczęcia kadencji Rady,
-b) termin wskazany w ust. 8 zamienia się na termin 59 dni od rozpoczęcia kadencji Rady.
+b) (uchylony),
+c) wszystkie pozostałe terminy wymienione w § 11 ust. 4, 5, 7 i 8 mogą zostać skrócone.  Poszczególne terminy ustala Komisja Wyborcza i podaje do publicznej wiadomości.
 
 15. Mandaty nieobsadzone podczas wyborów uzupełniających pozostają nieobsadzone do końca kadencji Rady, z zastrzeżeniem § 12 ust. 3.
 
@@ -165,7 +166,7 @@ f) zakończenia kadencji Rady.
 
 3. Jeśli nie ma osoby wskazanej w ust. 2, jednak nie później niż na 6 miesięcy przed upływem kadencji Rady, rozpoczyna się procedurę wyborów uzupełniających w obrębie odpowiedniego zakładu w trybie określonym w § 11 ust. 1-13.
 
-4. Podczas wyborów, o których mowa w ust. 3, obsadza się również pozostałe wakujące mandaty delegatów do Rady z odpowiedniego zakładu.
+4. (uchylony).
 
 
 § 13
@@ -575,3 +576,19 @@ Delegat do Rady Barbara Juraszek
 Delegat do Rady Bernadeta Michalska
 Delegat do Rady Karolina Stępniak
 Delegat do Rady Kacper Adam Walentynowicz
+
+
+
+
+Zmiany w Regulaminie: §7a ust. 1 lit. a), §9 ust. 2, §11 ust. 11, ust. 14a lit. b)-c), §12 ust.  4.
+Warszawa, 6 listopada 2017 Rada Samorządu Doktorantów IBD PAN
+Przewodnicząca Samorządu Joanna Czarnecka
+Wiceprzewodnicząca Samorządu Barbara Juraszek
+Delegat do Rady Marcin Herok
+Delegat do Rady Karolina Stępniak
+Delegat do Rady Svitlana Antoniuk
+Delegat do Rady Bernadeta Michalska
+Delegat do Rady Karolina Stępniak
+Delegat do Rady Kacper Adam Walentynowicz
+Delegat do Rady Michał Niziołek
+Delegat do Rady Patrycja Kruk
