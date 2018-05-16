@@ -96,6 +96,8 @@ Rada Samorządu Doktorantów
 
 1. Kadencja Rady trwa 1 rok, rozpoczyna się 1 stycznia i kończy się 31 grudnia.
 
+2. Kadencja nowej Rady może trwać krócej niż rok gdy działający na mocy § 11 ust. 17 wskaże poczatek rozpoczęcia kadencji nowej Rady.
+
 
 § 11
 
@@ -144,10 +146,15 @@ c) wszystkie pozostałe terminy wymienione w § 11 ust. 4, 5, 7 i 8 mogą zosta�
 
 16. (uchylony)
 
-17. W razie braku Rady, czynności przewidziane w ust. 1-2 może przeprowadzić:
+17. W razie braku Rady, za wyjątkiem okresu pomiędzy 1 maja a 1 listopada, czynności przewidziane w ust. 1-2 może przeprowadzić:
 a) Przewodniczący Samorządu, lub
 b) Wiceprzewodniczący Samorządu - po bezskutecznej próbie wezwania do tego osoby wymienionej w lit. a), lub
 c) co najmniej 5 (pięciu) członków Samorządu - po bezskutecznej próbie wezwania do tego osób wymienionych w lit. a)-b).
+
+18. Korzystając z ust. 17 wskazuje się poczatek rozpoczęcia kadencji nowej Rady na:
+a) nie wcześniej niż 36 dni i nie później niż 45 dni od dnia skorzystania z ust. 17 - gdy z ust. 17 skorzystano przed 1 maja,
+b) nie wcześniej niż 36 dni i nie później niż 45 dni od dnia skorzystania z ust. 17 - gdy z ust. 17 skorzystano po 26 listopada,
+c) 1 stycznia kolejnego roku - w pozostałych przypadkach.
 
 
 § 12
