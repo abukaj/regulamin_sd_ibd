@@ -82,17 +82,15 @@ Rada Samorządu Doktorantów
 
 § 9
 
-1. W skład Rady wchodzą członkowie Samorządu - delegaci poszczególnych zakładów działających w Instytucie.
+1. W skład Rady wchodzą członkowie Samorządu - delegaci.
 
-2. Każdemu zakładowi przysługuje liczba mandatów obliczona przez podział liczby podlegających mu na dzień powołania Komisji Wyborczej członków Samorządu przez 10 (dziesięć) i zaokrąglenie do najbliższej liczby całkowitej, jednak nie mniej niż 1 (jeden) mandat.
+2. Liczba mandatów delegatów obliczana jest przez podział liczby członków Samorządu na dzień powołania Komisji Wyborczej przez 20 (dwadzieścia) i zaokrąglenie do najbliższej liczby całkowitej, jednak nie mniej niż 5 (pięć) mandatów.
 
 3. (uchylony)
 
 4. (uchylony)
 
-5. Na potrzeby Regulaminu wprowadza się fikcje prawne:
-a) Pracownię Cytometrii uważa się za wchodzącą w skład Zakładu Biochemii,
-b) Międzynarodowy Instytut Biologii Molekularnej i Komórkowej w Warszawie uważa się za zakład działający w Instytucie.
+5. (uchylony)
 
 § 10
 
@@ -105,33 +103,33 @@ b) Międzynarodowy Instytut Biologii Molekularnej i Komórkowej w Warszawie uwa�
 
 2. Do przeprowadzenia głosowań Rada powołuje Komisję Wyborczą spośród członków Samorządu, w terminie nie później niż 35 dni przed planowanym rozpoczęciem kadencji nowej Rady.
 
-3. Komisja Wyborcza liczy co najmniej trzy osoby, lecz nie więcej niż pięć.  W miarę możliwości, w Komisji Wyborczej powinny być reprezentowane wszystkie zakłady działające w Instytucie.
+3. Komisja Wyborcza liczy co najmniej trzy osoby, lecz nie więcej niż pięć.
 
 4. Komisja Wyborcza, w ciągu 7 dni od powołania, podaje do publicznej wiadomości:
-a) liczbę mandatów przysługujących każdemu zakładowi,
+a) liczbę mandatów,
 b) termin wyborów,
 c) sposób zgłaszania kandydatów,
 d) co najmniej 14-dniowy termin zgłaszania kandydatów.
 
-5. Komisja Wyborcza podaje do publicznej wiadomości formę wyborów oraz listę kandydatów do Rady, osobno dla każdego zakładu, nie później niż na 7 dni przed wyborami w pierwszym z zakładów.  Od rozpoczęcia wyborów w pierwszym z zakładów do zakończenia w ostatnim nie może upłynąć więcej niż 7 dni.
+5. Komisja Wyborcza podaje do publicznej wiadomości formę wyborów oraz listę kandydatów do Rady nie później niż na 7 dni przed wyborami.  Od rozpoczęcia wyborów do ich zakończenia nie może upłynąć więcej niż 7 dni.
 
 6. Wyboru delegatów do Rady dokonują członkowie Samorządu.
 
-6a. W zakładach, w których liczba kandydatów do Rady jest mniejsza lub równa liczbie przysługujących zakładowi mandatów delegatów, za wybranych do Rady uznaje się wszystkich kandydatów bez przeprowadzania wyborów.
+6a. Jeśli liczba kandydatów do Rady jest mniejsza lub równa liczbie mandatów delegatów, za wybranych do Rady uznaje się wszystkich kandydatów bez przeprowadzania wyborów.
 
 7. Komisja Wyborcza rozstrzyga protesty i wynikłe wątpliwości związane z przebiegiem wyborów, w terminie nie przekraczającym 7 dni od ogłoszenia wyników wyborów.
 
 8. Wybory powinny zakończyć się nie później niż 7 dni przed planowanym rozpoczęciem kadencji nowej Rady.
 
-9. W zakładzie czynne prawo wyborcze mają wszyscy podlegający mu członkowie Samorządu,
+9. Czynne prawo wyborcze mają wszyscy członkowie Samorządu,
 
-9a. W zakładzie bierne prawo wyborcze mają wszyscy podlegający mu członkowie Samorządu, z wyłączeniem członków Komisji Wyborczej.
+9a. Bierne prawo wyborcze mają wszyscy Samorządu, z wyłączeniem członków Komisji Wyborczej.
 
 10. Każdy posiadający bierne prawo wyborcze ma prawo zgłosić swoją kandydaturę Komisji Wyborczej w trybie ogłoszonym zgodnie z ust. 4.
 
-11. Wyboru delegatów do Rady dokonuje się w głosowaniu tajnym na poszczególnych kandydatów z Zakładu głosującego, za okazaniem legitymacji.  Każdy głosujący może oddać głos na jednego lub więcej kandydatów – nie więcej jednak niż wynosi liczba mandatów w danym zakładzie, albo wstrzymać się od głosu.
+11. Wyboru delegatów do Rady dokonuje się w głosowaniu tajnym na poszczególnych kandydatów, za okazaniem legitymacji.  Każdy głosujący może oddać głos na jednego lub więcej kandydatów – nie więcej jednak niż wynosi liczba mandatów, albo wstrzymać się od głosu.
 
-12. Wyniki wszystkich głosowań ogłasza Komisja Wyborcza w terminie nie przekraczającym 2 dni roboczych od zakończenia głosowań we wszystkich zakładach.  Wyniki wyborów zostają podane do publicznej wiadomości wszystkich członków samorządu, Kierownika Studiów Doktoranckich oraz do Dyrektora Instytutu.
+12. Wyniki głosowania ogłasza Komisja Wyborcza w terminie nie przekraczającym 2 dni roboczych od jego zakończenia.  Wyniki wyborów zostają podane do publicznej wiadomości oraz do wiadomości Kierownika Studiów Doktoranckich i Dyrektora Instytutu.
 
 13. Za wybranych do Rady Samorządu uważa się tych kandydatów, którzy otrzymali najwięcej oddanych głosów.  Jeżeli dwóch lub więcej kandydatów otrzymało równą ilość głosów uprawniającą do uzyskania mandatu i kandydatów tych jest więcej niż mandatów do uzyskania, o pierwszeństwie rozstrzyga losowanie przeprowadzane przez 3 członków Komisji Wyborczej, z możliwością udziału zainteresowanych kandydatów.  Przebieg losowania uwzględnia się w protokole wyborczym.
 
@@ -149,7 +147,7 @@ c) wszystkie pozostałe terminy wymienione w § 11 ust. 4, 5, 7 i 8 mogą zosta�
 17. W razie braku Rady, czynności przewidziane w ust. 1-2 może przeprowadzić:
 a) Przewodniczący Samorządu, lub
 b) Wiceprzewodniczący Samorządu - po bezskutecznej próbie wezwania do tego osoby wymienionej w lit. a), lub
-c) co najmniej 5 (pięciu) członków Samorządu podlegających przynajmniej 2 (dwóm) zakładom - po bezskutecznej próbie wezwania do tego osób wymienionych w lit. a)-b).
+c) co najmniej 5 (pięciu) członków Samorządu - po bezskutecznej próbie wezwania do tego osób wymienionych w lit. a)-b).
 
 
 § 12
@@ -164,7 +162,7 @@ f) zakończenia kadencji Rady.
 
 2. W razie wygaśnięcia mandatu, mandat przejmuje następny kandydat z największą liczbą głosów uzyskanych w wyborach.
 
-3. Jeśli nie ma osoby wskazanej w ust. 2, jednak nie później niż na 6 miesięcy przed upływem kadencji Rady, rozpoczyna się procedurę wyborów uzupełniających w obrębie odpowiedniego zakładu w trybie określonym w § 11 ust. 1-13.
+3. Jeśli nie ma osoby wskazanej w ust. 2, jednak nie później niż na 6 miesięcy przed upływem kadencji Rady, rozpoczyna się procedurę wyborów uzupełniających w trybie określonym w § 11 ust. 1-13.
 
 4. (uchylony).
 
