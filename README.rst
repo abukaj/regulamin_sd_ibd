@@ -1,7 +1,7 @@
 Historia zmian w Regulaminie SD IBD PAN
 =======================================
 
-`Tekst jednolity<blob/master/regulamin.txt>`_
+`Tekst jednolity <blob/master/regulamin.txt>`_
 
 
 Zalecenia dla współpracowników
@@ -28,5 +28,6 @@ Po paragrafie stosujemy potrójny znak nowej linii.
 Po rozdziale stosujemy poczwórny znak nowej linii.
 
 Po podpisach zatwierdzających zmiany w Regulaminie stosujemy
-`pięciorny<https://pl.wikisource.org/wiki/M._Arcta_S%C5%82ownik_Staropolski/Pi%C4%99ciorny>`_
+`pięciorny
+<https://pl.wikisource.org/wiki/M._Arcta_S%C5%82ownik_Staropolski/Pi%C4%99ciorny>`_
 znak nowej linii.
