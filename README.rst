@@ -1,7 +1,7 @@
 Historia zmian w Regulaminie SD IBD PAN
 =======================================
 
-`Tekst jednolity <blob/master/regulamin.txt>`_
+`Tekst jednolity <regulamin.txt>`_
 
 
 Zalecenia dla współpracowników
