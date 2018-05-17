@@ -11,7 +11,7 @@ Aby ułatwić zautomatyzowane odróżnienie kropki po skrócie (np. ``ust.``)
 od kropki kończącej zdanie po kropce kończącej zdanie stosujemy podwójną
 spację.
 
-Znaku nowej linii używamy do wyodrębniania `jednostek redakcjyjnych
+Znaku nowej linii używamy do wyodrębniania `jednostek redakcyjnych
 <https://pl.wikipedia.org/wiki/Jednostka_redakcyjna_tekstu_prawnego>`_,
 rozdzielenia numeru i tytułu rozdziałów, rozdzielenia list zmian w regulaminie,
 poszczególnych załącznikach, daty i miejsca podpisania zmian oraz
